@@ -1,0 +1,216 @@
+[
+  {
+    "id": "VPT20",
+    "discount": "899",
+    "offers": "25%",
+    "title": "COMBO 1",
+    "amount": 1200,
+    "eventId": "20",
+    "category": "upload",
+    "details": [
+      "1-4 Members",
+      "Project Presentation",
+      "Tech-It-Out",
+      "Shoot and Broadcast (or)( Connexion, MOCK CID, Action Speaks (ANY 2))"
+    ]
+  },
+  {
+    "id": "VPT21",
+    "discount": "1199",
+    "offers": "25%",
+    "title": "COMBO 2",
+    "amount": 1550,
+    "eventId": "21",
+    "category": "upload",
+    "details": [
+      "1-4 Members",
+      "Paper Presentation",
+      "Best Engineer",
+      "Theme Photography, Non-Technical quiz, Series Quiz (ANY 2)"
+    ]
+  },
+  {
+    "id": "VPT22",
+    "discount": "1111",
+    "offers": "25%",
+    "title": "COMBO 3",
+    "amount": 1500,
+    "eventId": "22",
+    "category": "team",
+    "details": [
+      "1-5 Members",
+      "Line follower",
+      "Robo Soccer",
+      "Theme Photography, Non-Technical quiz, Series Quiz (ANY 2)"
+    ]
+  },
+  {
+    "id": "VPT01",
+    "discount": "0%",
+    "offers": "null",
+    "title": "PAPER PRESENTATION",
+    "amount": 750,
+    "eventId": "01",
+    "category": "upload",
+    "details": [
+      "Free Publication",
+      "Free WiFi Access",
+      "Free Accommodation",
+      "Coffee - Break"
+    ]
+  },
+  {
+    "category": "upload",
+    "id": "VPT02",
+    "eventId": "02",
+    "amount": 600,
+    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
+    "discount": "0%",
+    "title": "PROJECT PRESENTATION",
+    "offers": "null"
+  },
+  {
+    "eventId": "03",
+    "title": "AI/ML HACKATHON",
+    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
+    "offers": "null",
+    "category": "upload",
+    "discount": "0%",
+    "amount": 500,
+    "id": "VPT03"
+  },
+  {
+    "category": "upload",
+    "discount": "0%",
+    "amount": 500,
+    "offers": "null",
+    "eventId": "04",
+    "title": "IoT HACKATHON",
+    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
+    "id": "VPT04"
+  },
+  {
+    "offers": "null",
+    "id": "VPT05",
+    "discount": "0%",
+    "amount": 400,
+    "category": "team",
+    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
+    "eventId": "05",
+    "title": "LINE FOLLOWER"
+  },
+  {
+    "offers": "null",
+    "amount": 600,
+    "eventId": "06",
+    "discount": "0%",
+    "category": "team",
+    "title": "ROBO SOCCER",
+    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
+    "id": "VPT06"
+  },
+  {
+    "amount": 100,
+    "discount": "0%",
+    "id": "VPT07",
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "category": "individual",
+    "title": "BEST ENGINEER",
+    "eventId": "07"
+  },
+  {
+    "id": "VPT08",
+    "amount": 100,
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "eventId": "08",
+    "title": "TECH-IT-OUT",
+    "category": "individual"
+  },
+  {
+    "discount": "0%",
+    "title": "SHOOT AND BROADCAST",
+    "category": "team",
+    "id": "VPT11",
+    "amount": 200,
+    "offers": "null",
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "eventId": "11"
+  },
+  {
+    "title": "MOCK CID",
+    "id": "VPT12",
+    "offers": "null",
+    "amount": 100,
+    "discount": "0%",
+    "eventId": "12",
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "category": "team"
+  },
+  {
+    "id": "VPT13",
+    "offers": "null",
+    "amount": 100,
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "title": "CONNEXION",
+    "eventId": "13",
+    "discount": "0%",
+    "category": "team"
+  },
+  {
+    "id": "VPT14",
+    "discount": "0%",
+    "offers": "null",
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "eventId": "14",
+    "title": "ACTION SPEAKS",
+    "amount": 100,
+    "category": "team"
+  },
+  {
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "id": "VPT15",
+    "title": "THEME PHOTOGRAPHY",
+    "amount": 50,
+    "category": "individual",
+    "eventId": "15"
+  },
+  {
+    "title": "NON-TECHNICAL QUIZ",
+    "discount": "0%",
+    "category": "individual",
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "eventId": "16",
+    "amount": 50,
+    "id": "VPT16"
+  },
+  {
+    "eventId": "17",
+    "id": "VPT17",
+    "offers": "null",
+    "category": "individual",
+    "amount": 50,
+    "details": ["Free WiFi Access", "Coffee - Break"],
+    "discount": "0%",
+    "title": "SERIES QUIZ"
+  },
+  {
+    "eventId": "25",
+    "id": "VPT25",
+    "offers": "null",
+    "category": "individual",
+    "amount": 300,
+    "details": [
+      "Access for Any 3 Workshops",
+      "Free WiFi Access",
+      "Coffee - Break"
+    ],
+    "discount": "0%",
+    "title": "WORKSHOPS"
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "rules": [
+      "The time calculated by the organizers will be final.",
+      "Only the participation certificate is guaranteed for the registration fee. (Free publication for peer-reviewed journals will be considered).",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "rewards": [
+      "Best Paper Certificate will be provided for each track.",
+      "The overall winner among all the tracks will receive Certificate and Cash Prizes.",
+      "Participation certificates will be provided only to the presented teams."
+    ],
+    "teamInfo": [
+      "Team Size - 1 to 4 Members.",
+      "Any institution or group of students or professors may form a team or individual participation is allowed"
+    ],
+    "abstract": "https://drive.google.com/file/d/1AzGwIGz_SY3z4OaLrLFy-usuDZHhTt20/view?usp=share_link",
+    "stages": [
+      {
+        "name": "DOMAIN",
+        "info": ["Open Innovation"]
+      },
+      {
+        "info": [
+          "Participants are requested to submit their full papers as specified in the attached format (IEEE Format) well before the deadline.",
+          "Teams will be shortlisted based on uniqueness, Technical norms and Creativity, which includes the judging criteria, and will receive an invitation for the next round from the organizing team in due course of time."
+        ],
+        "name": "STAGE I"
+      },
+      {
+        "info": [
+          "Shortlisted teams can pay the registration fee Rs.750/Team in order to complete the registration process.",
+          "Once after the registration process is over, a detailed schedule will be shared to the team lead after confirmation."
+        ],
+        "name": "STAGE II"
+      },
+      {
+        "name": "STAGE III",
+        "info": [
+          "Each team will be allowed to present their ideas for 10 mins followed by a question session.",
+          "Presentations must be delivered only offline and in prescribed venue and time."
+        ]
+      }
+    ],
+    "eligibility": [
+      "All UG, PG, DIPLOMA students and working professionals with valid ID cards are eligible."
+    ],
+    "contact": {
+      "name": ["GOKUL S - 8668037744", "KEERTHANA R", "KALAIVAANI V"],
+      "info": "bitvprayukti@bitsathy.ac.in"
+    },"type": "technical",
+    "info": [
+      "Paper presentation is an event where the participants are required to create a paper about a certain topic or area, and then present it in front of a jury, following which it will be rated and judged based on their performance."
+    ],
+    "id": "paperPresentation",
+    "tag": " Prizes worth ₹3000",
+    "name": "PAPER PRESENTATION"
+  },
+  {
+    "type": "technical",
+    "abstract": "https://drive.google.com/file/d/1FatsuX3ALoVyFm08_1wxa325LHVUkh1D/view?usp=share_link",
+    "stages": [
+      {
+        "info": [
+          "Healthcare and Medicine",
+          "Smart Transportation and Automotives",
+          "Smart Agriculture",
+          "Smart Education",
+          "Open Innovation"
+        ],
+        "name": "DOMAIN"
+      },
+      {
+        "name": "STAGE I",
+        "info": [
+          "Participants are requested to submit their abstract as specified format well before the deadline."
+        ]
+      },
+      {
+        "info": [
+          "The participants are expected to bring their project demo during the presentation.",
+          "Each team will be allowed to present their product demo and PPT for 10 mins followed by a question session."
+        ],
+        "name": "STAGE II"
+      }
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are eligible."
+    ],
+    "id": "projectPresentation",
+    "teamInfo": [
+      "Team Size - 1 to 4 Members.",
+      "Students from any institution (College/ University) can form a team."
+    ],
+    "rewards": [
+      " Prizes worth Rs.5000 for the best Presentation (Winner and Runner).",
+      "All the presented participants will receive the Participation Certificate."
+    ],
+    "info": ["Start where you are. Use what you have. Do what you can !!"],
+    "rules": [
+      "Except for basic facilities (electricity/working space/Internet), the participants are advised to come prepared.",
+      "The time calculated by the organizers will be final.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": ["KRISHNAN M - 8526702319", "KAVINKANTH A - 9842652052"]
+    },
+    "tag": " Prizes worth ₹5000",
+    "name": "PROJECT PRESENTATION"
+  },
+  {
+    "eligibility": [
+      "All UG, PG and DIPLOMA engineering students with valid ID cards are permitted."
+    ],
+    "stages": [
+      {
+        "name": "Preliminary Qualifying round",
+        "info": [
+          "This round consists of MCQ’s. Participants will be evaluated on their knowledge of basic engineering concepts. The participants will be shortlisted based on their performance."
+        ]
+      },
+      {
+        "info": [
+          "Shortlisted participants will be allowed to present a topic from their domain for 10 mins followed by a question session.",
+          "Evaluation will be based on the knowledge  of a participant in their respective domains.",
+          "Every participant must come prepared with their selected topics to present."
+        ],
+        "name": "Final Round"
+      }
+    ],
+    "info": [
+      "Bring out your inner engineer for our stellar event that tests the depth of your Technical knowledge. Upskill your technical skills by engaging in this episode of BIT V-PRAYUKTI 23. Take part in this exciting two rounds event and take home the best engineer accolade with you."
+    ],
+    "id": "bestEngineer",
+    "rules": [
+      "The time calculated by the organizers will be final.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269076/prayukti/staticAssets/engineer_kixotl.jpg",
+    "tag": "Awards & Certificates",
+    "type": "technical",
+    "name": "BEST ENGINEER",
+    "rewards": [
+      "The top scoring participant will be Honored with a “BEST ENGINEER” award along with a certificate . ",
+      "All the participants will receive a certificate."
+    ],
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": [
+        "MURALIDHARAN P - 8248532278",
+        "VIMALRAJ S - 7604912953",
+        "SUSHMEETHAA M",
+        "SOWMIYA V"
+      ]
+    },
+    "teamInfo": ["Individual Participation."]
+  },
+  {
+    "tag": "Rewards & Certificates",
+    "type": "nonTechnical",
+    "teamInfo": [
+      "Create a team of two to four people (Any institution or group of students may form a team)"
+    ],
+    "contact": {
+      "name": ["NAVEEN V – 9442567865", "SHANMUGAPRIYAN P – 8778132429"],
+      "info": "bitvprayukti@bitsathy.ac.in"
+    },
+    "rules": [
+      "Total time for all team - 2 hours",
+      "Viva and evaluation - 5 minutes",
+      "The time calculated by the organizers will be final.",
+      "Contestants are advised to bring their own DSLR/Mobile phones/laptop/SD card for the competition.",
+      "Copying from other websites /social media is strictly prohibited and if done the team  will be disqualified.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding.",
+      "Theme will be given on the spot."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269077/prayukti/staticAssets/shoot_fvyklg.jpg",
+    "id": "shoot&broadcast",
+    "rewards": [
+      "Winners will receive a certificate and medal.",
+      "All the participants will receive a certificate."
+    ],
+    "name": "SHOOT AND BROADCAST",
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "info": [
+      "Dust up your cameras and unwrap the videographer in you. This competition judges the ability of your creativity and storytelling skills. Every team will be given an on spot theme and a location will be allotted within the campus. You need to capture a short video of 2 minutes within the deadline based on the theme provided. Judgment will be based on how creatively you deliver the content through your lenses."
+    ]
+  },
+  {
+    "rewards": [
+      "Winners will receive a certificate and medal.",
+      "All the participants will receive a participation certificate."
+    ],
+    "teamInfo": ["Create a team of two people"],
+    "tag": "Rewards & Certificates",
+    "info": [
+      "A fun enthusiastic game where your action speaks, a recipe for promoting teamwork and a capability building tool. The mulling together here creates cohesive teamwork. The person playing out the charade is not allowed to talk and is required to act out the name by using different gestures, facial expressions, and a good amount of body language. Each registered team will go through the first round and the top 5 best performing teams will be selected for the final round."
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "id": "actionSpeaks",
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": ["YOGESH S - 7904863451", "PRIYADHARSHINI S V", "KAVISRI C M"]
+    },
+    "stages": [
+      {
+        "info": [
+          "In the first round , the  person enacting will be given a set of words on any domain (Eg: Movies, Famous  personalities,etc..) and the other person must find it within the given time .The team that finds the most number of words in the shortest amount of time, will be qualified to the next round."
+        ],
+        "name": "ROUND 1"
+      },
+      {
+        "name": "ROUND 2",
+        "info": [
+          " In the final round each team will be given a another set of words . The team should find it within the given time . The winner will be chosen based on time taken and their performance."
+        ]
+      }
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269074/prayukti/staticAssets/speaker_a5fz7h.jpg",
+    "name": "ACTION SPEAKS",
+    "type": "nonTechnical",
+    "rules": [
+      "The participants should convey the given word only through actions.",
+      "The participants should not use mobile phones.",
+      "The performance and time taken noted by the organizer will be final.",
+      "Seeking help from others are not allowed.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ]
+  },
+  {
+    "rewards": [
+      " Prizes worth Rs.7000 for the best solutions (Winner and Runner).",
+      "All the participants will receive a certificate."
+    ],
+    "type": "technical",
+    "tag": " Prizes worth ₹7000",
+    "stages": [
+      {
+        "info": [
+          "Teams will have an option to tackle any of the given problem statements, teams have to submit their solutions before the deadline as specified in the format for the chosen statement.",
+          "Based on uniqueness, technical norms  and creativity which includes the judging criteria, the top teams will be shortlisted and receive an invitation for the next round from our team that will be shared in a due course of time."
+        ],
+        "name": "Virtual Round"
+      },
+      {
+        "info": [
+          "Shortlisted teams should pay the registration fee Rs.500/Team in order to complete the registration process.",
+          "Once after the registration process is over, a detailed schedule will be shared to the team lead through WhatsApp."
+        ],
+        "name": "Payment Phase"
+      },
+      {
+        "info": [
+          "This is an in-person Hackathon where the Shortlisted teams should be present in the respective venue.",
+          "Participants will receive the necessary components (only mentioned in the submitted ppt)  and have 24 hours to develop their idea into a finished product.",
+          "Participants are provided with PCB softwares, soldering stations and power supply provisions during the course of the hackathon.",
+          "Participants can bring their own laptops or you can use the systems in the allotted venue (Internet access is provided throughout the event).",
+          "During the event, there will be a surprise audit by the expert jury panel."
+        ],
+        "name": "Final Round"
+      }
+    ],
+    "teamInfo": [
+      "TEAM SIZE - 3 to 5 Members per team.(Any institution or group of students may form a team)"
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269077/prayukti/staticAssets/iot_lvtpsl.jpg",
+    "id": "iotHackathon",
+    "contact": {
+      "name": [
+        "VIMALRAJ  S - 7604912953",
+        "PUVIYARASU S - 8675070348",
+        "GOKUL S - 8668037744"
+      ],
+      "info": "bitvprayukti@bitsathy.ac.in"
+    },
+    "name": "IOT HACKATHON",
+    "problem": "https://drive.google.com/file/d/1JcmwDqUW715O9uz2DIlH1_hEbrOR3UqZ/view?usp=share_link",
+    "abstract": "https://docs.google.com/presentation/d/1WM1ubNhv1fx_Fr-QDQ3cGUA-tMceT4Vy/edit?usp=share_link&ouid=111562506663857940451&rtpof=true&sd=true",
+    "rules": [
+      "The time calculated by the organizers will be final. ",
+      "The datasets will be given at the beginning of the Stage II.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "info": [
+      "There have been people willing to predict the future of technology ever since the first technologies were developed. Hackathons are where our crazy ideas become reality. Here we come up with a hack to ascertain the intellect of individuals. We combine magic and science to create illusions. We work with new media and interactive technologies, things like AI/ML, IoT or computer vision, and integrate them in our magic. The key to AI has always been representation. Get ready to witness machine intelligence and Internet of Things in working out real time concerns with a feasible approach."
+    ]
+  },
+  {
+    "stages": [
+      {
+        "name": "Preliminary Qualifying Round",
+        "info": [
+          "In this round, each team must use the provided hints to find  the story of a specific scenario. The top six teams  will be qualified to the next round based on the time consumption."
+        ]
+      },
+      {
+        "name": "Final round",
+        "info": [
+          "For the final round- The team who solves the murder mystery first among all , will be considered as the winner"
+        ]
+      }
+    ],
+    "name": "MOCK CID",
+    "id": "mockCID",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269074/prayukti/staticAssets/cid_vb2yjz.jpg",
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "rules": [
+      "Usage of mobile phones is not allowed while participating in the competition.",
+      "The time calculated by the organizers will be final. ",
+      "Seeking help from others is not allowed.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "teamInfo": ["Create a team of two people"],
+    "tag": "Rewards & Certificates",
+    "info": [
+      "It is a replica of CID, a fascinating event for all investigative generals out there. Join us and help find the real culprit.",
+      "Each group will go through the round, and whosoever completes the round fastest will qualify for the final round. Selected ones will be further moving to round-two in which they have to solve a Murder Mystery. Teams who complete in the shortest time will be winning the Mock-CID."
+    ],
+    "type": "nonTechnical",
+    "rewards": [
+      "Winners will receive a certificate and medal.",
+      "All the participants will receive a certificate."
+    ],
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": ["VIMALRAJ  S - 7604912953", "SHOBIKA P", "AISHWARYA U"]
+    }
+  },
+  {
+    "rewards": [
+      "Winners will receive a certificate and medal",
+      "All participants will receive a certificate"
+    ],
+    "type": "nonTechnical",
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "id": "themePhotography",
+    "tag": "Rewards & Certificates",
+    "info": [
+      "If you are a shutterbug and want to show off your photography skills! You are at the right place. For a selected theme, you can explore the given boundaries and capture your mind in pixels. Showcase your presence of mind and freeze the memory in time."
+    ],
+    "name": "THEME PHOTOGRAPHY",
+    "contact": {
+      "name": ["NAVEEN V - 9442567865", "NISAINI L", "SOWMIYA S"],
+      "info": "bitvprayukti@bitsathy.ac.in"
+    },
+    "rules": [
+      "In this Event, The participants are allowed to capture the  picture inside our campus based on the given theme in the allocated time.",
+      "Participants can use Mobiles to capture the  pictures.",
+      "The captured pictures must contain a watermark with date and time.",
+      "Further a google form will be sent to the participant's mail ID. He /she should upload the picture they have captured, and the best photograph will be selected as a winner"
+    ],
+    "teamInfo": ["Individual Participation."],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269075/prayukti/staticAssets/photography_ux9xox.webp"
+  },
+  {
+    "teamInfo": ["Team size 1-5 members per team"],
+    "rewards": [
+      " Prize worth Rs.7000/-(winner and runner)",
+      "All participants will receive a certificate"
+    ],
+    "tag": " Prizes worth ₹7000",
+    "info": [
+      "Build your own autonomous robot within the specified dimensions to achieve the maximum speed to beat other robots on the given track and reach the destination in minimum time. The robot must start behind the starting point and is considered to have crossed the finishing line if any part of the robot crosses it in a full lap of the course. The robot must follow the black line. The competition area has a special place defined for the robot’s operation."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269075/prayukti/staticAssets/event1_dynvha.jpg",
+    "type": "technical",
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "stages": [
+      {
+        "info": [
+          "The autonomous robot must fit in a 30 cm x 30 x cm 30 x cm box.",
+          "Maximum robot weight not to exceed 3kg (batteries included).",
+          "The electric voltage anywhere in the machine must not exceed 12V DC at all times for each robot.",
+          "Bots should not cause any damage to the arena. Any such incident may result in disqualification. The decision is made by the event coordinators/judges.",
+          "Bots do not interfere with the performance of any other bot. In these cases, the decision of the event coordinators or judges will be final."
+        ],
+        "name": "BOT SPECIFICATION"
+      },
+      {
+        "info": [
+          "Line width 25-30 mm",
+          "There will be two stages and top qualifying teams will be moved on to the next stage.",
+          "Bots will be judged on the basis of the time it takes to complete the path in both rounds. In case of any discrepancies, time measures by the judges will be final(max 5 min).",
+          "A bot will have two chances to traverse the track.",
+          "The shortest time from the two will be considered for evaluation.",
+          "If the bot becomes immobile or loops then the bot will get a penalty of  3sec(max 3 penalty), only the team leader with permission, will be able to relocate it or reset its route.",
+          "The robot must traverse the full track from the starting point to the finishing point within the maximum access time."
+        ],
+        "name": "Game play"
+      }
+    ],
+    "id": "lineFollower",
+    "name": "LINE FOLLOWER",
+    "contact": {
+      "name": ["SANTHOSH P - 9597143253", "GOKUL S - 8668037744"],
+      "info": "bitvprayukti@bitsathy.ac.in"
+    },
+    "rules": [
+      "Time measured by the organizer will be final.",
+      "Number of Rounds can be modified by the organizers at the time of the event.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ]
+  },
+  {
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "rewards": [
+      " Prizes worth Rs. 12000 are awarded for the best team (Winner and Runner).",
+      "All the participants will receive a certificate."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269079/prayukti/staticAssets/event4_arhgt5.jpg",
+    "rules": [
+      "The total duration of the game is 5 minutes, which is divided into two halves. Each half is of  150 Sec of duration with a 60 sec of a break in between.",
+      "If a team does not report within 5 minutes of the game start, it forfeits the game and the opponent is declared as  win.",
+      "If the ball goes out of play area , the opposite team would get a goal kick (game play resumes from opposite teams goal area).",
+      "Team scoring maximum goals at the end of playtime will win the match.",
+      "In case of a tie each team will be awarded 3 penalties.",
+      "The match is played by two teams.",
+      "The time calculated by the organizers will be final. ",
+      "The decision of the organizers/judges will be final and binding."
+    ],
+    "stages": [
+      {
+        "info": [
+          "A bot must fit inside a 30 cm x 30 cm x 30 cm box at any point in time. Maximum weight should not be more than 5Kgs (including battery) for wirelessly controlled bots (tolerance 5%)."
+        ],
+        "name": "BOT SPECIFICATION"
+      },
+      {
+        "name": "NOTE",
+        "info": [
+          "Batteries must be sealed, immobilized or electrolyte type (gel cell, lithium, NiCad, or dry cells).",
+          "The electric voltage anywhere in the machine should not be more than 12V DC at any point in time for each robot.",
+          "The robot must not emit infrared light.",
+          "Infrared light-reflecting materials must not be used on the outside.",
+          "If a team claims that their robot is affected by the other team’s robot in any way they must show proof/evidence of the interference. Any interference must be confirmed by a referee if a claim is placed by the other team.",
+          "The robot can be autonomous or manually controlled using a remote-control system."
+        ]
+      },
+      {
+        "info": [
+          "Ball size - 42mm (+/-5mm)",
+          "The playing area would be 8 feet by 5 feet. The exact field dimensions and the field markings at the venue may vary by up to ±10% in each linear dimension.",
+          "The field has two goals. The goal posts are positioned over the white line marking the end of the field.",
+          "A center circle will be drawn on the field. It is a thin white marked circle.",
+          "In case of a tie each team will be awarded 3 penalties."
+        ],
+        "name": "FIELD SPECIFICATIONS"
+      }
+    ],
+    "name": "ROBO SOCCER",
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": ["SANTHOSH P – 9597143253", "SANTHOSH R – 9944320025"]
+    },
+    "tag": " Prizes worth ₹12000",
+    "id": "roboSoccer",
+    "info": [
+      "Bannari Amman Institute of Technology proudly presents BIT V -PRAYUKTI’23. It brings you to the fascinating event ROBO SOCCER. Tune up your robots and get geared up for the thrilling experience of Robo-Soccer."
+    ],
+    "type": "technical",
+    "teamInfo": [
+      "TEAM SIZE: 1 - 5 Members (Students from different institutions or group of students from same Institution can form a team)"
+    ]
+  },
+  {
+    "rules": [
+      "Number of Rounds can be modified by the organizers at the time of the event.",
+      "Time measured by the organizer will be final.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "teamInfo": ["Create a team of two people"],
+    "stages": [
+      {
+        "info": [
+          "In this round, Each Team have to solve  three problem statements using the given  pictures.",
+          "The team has 30 seconds to guess a common word/homonym from the pictures.  The words that sound the same but can have different spellings or have slight variations  in how they are pronounced.",
+          "If any team is unable to answer within  the given time,then  other teams will be given a chance to  answer. Bonus points will be awarded.",
+          "Based on the  difficulty level, and time which includes the judging criteria,the top teams will be shortlisted   to the next round."
+        ],
+        "name": "ROUND 1"
+      },
+      {
+        "info": [
+          "In this round, Difficulty level in the pictures will be more complex than the previous round.",
+          "A word will be  split up into various images and the participants have to find the answer by  stringing the images together. Each picture means a separate word.",
+          "More than one word is given and the teams have to guess having in mind that only  the pictures together will make sense.",
+          "Points will be provided  based on correctness of the answer and teams will be  shortlisted based on the maximum points."
+        ],
+        "name": "ROUND 2"
+      },
+      {
+        "name": "ROUND 3",
+        "info": [
+          "This is the final round to sort out which team is the best connector.",
+          "It gives a total of five pictures one by one , and one word may be related to each image.",
+          "Considering both , and the images that the teams may correctly guess. The team's  which have the potential to correctly guess the word from fewer photographs, then the points will be provided to the respective team.",
+          "Winner will be selected based on the points table. "
+        ]
+      }
+    ],
+    "name": "CONNEXION",
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "tag": "Rewards & Certificates",
+    "rewards": [
+      "Winners will receive a certificate and medal.",
+      "All the participants will receive a certificate."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269074/prayukti/staticAssets/connexion_a6frrh.webp",
+    "contact": {
+      "name": ["MATISVAR M V – 6379021851", "VIJAY S V – 8248025270"],
+      "info": "bitvprayukti@bitsathy.ac.in"
+    },
+    "info": [
+      "Sharp up your mind and crack the connecting word between pictures. This competition judges  your quick ability to answer the hidden word behind the pictures. Every team will be given a specific set of pictures within the time limit, you need to guess the correct answer. Based on the Answer, Points are awarded for a team. Judgment will be based on the points scored by each team."
+    ],
+    "type": "nonTechnical",
+    "id": "connexion"
+  },
+  {
+    "name": "AI/ML HACKATHON",
+    "problem": "https://drive.google.com/file/d/1UMQ3PDKHNckZel3HZqTk0uE5rFo-FlaO/view?usp=share_link",
+    "abstract": "https://docs.google.com/presentation/d/1UeFqhRu-jx156mlYU7tQ2qei4M79DkS1/edit?usp=share_link&ouid=111562506663857940451&rtpof=true&sd=true",
+    "info": [
+      "There have been people willing to predict the future of technology ever since the first technologies were developed. Hackathons are where our crazy ideas become reality. Here we come up with a hack to ascertain the intellect of individuals. We combine magic and science to create illusions. We work with new media and interactive technologies, things like AI/ML, IoT or computer vision, and integrate them in our magic. The key to AI has always been representation. Get ready to witness machine intelligence and Internet of Things in working out real time concerns with a feasible approach."
+    ],
+    "id": "aimlHackathon",
+    "type": "technical",
+    "tag": " Prizes worth ₹7000",
+    "rewards": [
+      " Prizes worth Rs.7000 for the best solutions (Winner and Runner).",
+      "All participants will receive a certificate."
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269080/prayukti/staticAssets/aiml_fu2ej1.png",
+    "stages": [
+      {
+        "name": "Virtual Round",
+        "info": [
+          "Teams will have an option to tackle any of the given problem statements, teams have to submit their solutions before the deadline as specified in the format for the chosen statement.",
+          "Based on uniqueness, technical norms  and creativity which includes the judging criteria, the top teams will be shortlisted and receive an invitation for the next round from our team that will be shared in a due course of time."
+        ]
+      },
+      {
+        "name": "Payment Phase",
+        "info": [
+          "Shortlisted teams should pay the registration fee Rs.500/Team in order to complete the registration process.",
+          "Once after the registration process is over, a detailed schedule will be shared to the team lead."
+        ]
+      },
+      {
+        "name": "Final Round",
+        "info": [
+          "This is an in-person Hackathon where the Shortlisted teams should be present in the respective venue.",
+          "Participants can bring their own laptops or you can use the systems in the allotted venue (Internet access is provided throughout the event).",
+          "During the event, there will be a surprise audit by the expert jury panel."
+        ]
+      }
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": [
+        "VIMALRAJ  S - 7604912953",
+        "SRIHARI A - 9894326278",
+        "PUVIYARASU S - 8675070348"
+      ]
+    },
+    "teamInfo": [
+      "TEAM SIZE - 3 to 5 Members per team.(Any institution or group of students may form a team)"
+    ],
+    "rules": [
+      "The time measured by the organizers will be final.",
+      "The datasets will be given at the beginning of the Stage II.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ]
+  },
+  {
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674308545/prayukti/staticAssets/series_lu7r8i.jpg",
+    "tag": "Rewards & Certificates",
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": ["SANTHOSH P - 9597143253", "SUSHMEETHA M"]
+    },
+    "name": "SERIES QUIZ",
+    "teamInfo": ["Individual Participation"],
+    "rules": [
+      "The time measured and rules employed by the organizers will be final.",
+      "In case of any disputes/discrepancies, the organizers decision will be final."
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "type": "nonTechnical",
+    "id": "seriesQuiz",
+    "info": [
+      "Being a series buff doesn't come easily to everyone. It takes certain astonishing abilities such as remembering the plot line for 8 seasons and forgetting the last season ever happened for your sanity. If you think your memory is up to par? Participate and find out in this enthralling event created only for all the netflix and chill people out there."
+    ],
+    "stages": [
+      {
+        "name": "STAGES INVOLVED",
+        "info": [
+          "The competitors in this round of BIT V-PRAYUKTI'23 take on the task of watching a 3-5 minutes clip from a popular series and a quiz will be asked  from the clip.",
+          "The participants may be asked questions about any aspect of the video, such as the color of someone's outfit or the background music.",
+          "While watching the clips, participants will need to pay close attention.. This will be a written type event.",
+          "While registering, the names of the shows will be sent using Google Forms.The contestant who correctly predicts the most answers will be declared the winner."
+        ]
+      }
+    ],
+    "rewards": [
+      "Winner will receive a certificate and a medal.",
+      "All the participants will receive a certificate."
+    ]
+  },
+  {
+    "tag": " Prizes worth ₹1000",
+    "rules": [
+      "Time measured by the organizer will be final.",
+      "In case of any disputes/discrepancies, the organizers decision will be final and binding."
+    ],
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": ["KRISHNAN M - 8526702319", "RETHIKA P"]
+    },
+    "teamInfo": ["Single Participation"],
+    "info": [
+      "Domain related competitions are the best avenues to test your domain expertise, through which you can finally break the ice and gain the exposure."
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "type": "technical",
+    "id": "techitOut",
+    "name": "TECH-IT-OUT",
+    "stages": [
+      {
+        "info": [
+          "Participants will be provided with 2 platforms(Proteus and tinkerCad) to design a circuit and they are permitted to choose any of this platform.",
+          "Participants will be given a defective circuit in which they must debug and obtain the output.",
+          "Evaluation will be based on the time taken for debugging the entire circuit."
+        ],
+        "name": "CONNECTING BUGS [ ECE, EEE, EIE]"
+      },
+      {
+        "info": [
+          "Sketch the given mechanical component.(for eg. Suspension, Wheel).",
+          "The sketch perfection and time taken will be taken  for the evaluation. [Time: 25 mins – 45 mins]",
+          "Participants must bring their own drawing tools like compass and drafters."
+        ],
+        "name": "FREE HAND SKETCHING [Mechanical, Mechatronics, Automobile]"
+      },
+      {
+        "name": "CODE-A-THON [CSE, IT, CT, CSBS]",
+        "info": [
+          "Participants are asked to solve the given problem straight away.",
+          "Contestants will be ranked, as per the number of problems solved and amount of time taken (in case of tie contestants will be evaluated based on time and space complexity).",
+          "Allotted time: (1 hour – 3 problems).",
+          "Pen and paper are allowed.",
+          "Participants can bring their own laptops or you can use the systems in the allotted venue (internet connection will be provided over the entire duration of the event)."
+        ]
+      }
+    ],
+    "rewards": [
+      "Winners will receive Prizes worth ₹1000",
+      "All  participants will receive a Certificate"
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269075/prayukti/staticAssets/techitout_mkmwvb.jpg"
+  },
+  {
+    "tag": "Rewards & Certificates",
+    "rules": [
+      "This will be a written type event.",
+      "In Total there are 30 questions in three sections. The questions will be  based on general knowledge like sports, politics, puzzles and so on.",
+      "The participant who is at the top of the leader board is declared as the winner."
+    ],
+    "contact": {
+      "info": "bitvprayukti@bitsathy.ac.in",
+      "name": [
+        "GOKUL S - 8668037744",
+        "MITHHULL BALAJI -8870719447",
+        "SABITHA M",
+        "NANDHINI V T"
+      ]
+    },
+    "teamInfo": ["Individual Participation"],
+    "info": [
+      "This quiz is a very powerful activity that can meet many teaching needs, from  simple, multiple-choice knowledge tests to complex, self assessment tasks with  detailed feedback. In order to win this informal quiz, we have to have our minds  sharper and eccentric enough to become part of Da Vinci’s Newspaper."
+    ],
+    "eligibility": [
+      "All UG, PG and DIPLOMA students with valid ID cards are permitted."
+    ],
+    "type": "nonTechnical",
+    "id": "daVinci",
+    "name": "DA VINCI’S NEWSPAPER",
+    "rewards": [
+      "Winner will be awarded with medal and certificate",
+      "All participants will receive a certificate"
+    ],
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1673269077/prayukti/staticAssets/quiz_awxtsr.webp"
+  },
+  {
+    "id": "ArTechnology",
+    "name": "AR TECHNOLOGY",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962592/prayukti/staticAssets/workshops/AR_ecbmbf.png",
+    "type": "workshops",
+    "info": [
+      "This workshop mainly focuses on the importance of Augmented  Reality in real life.",
+      "These technologies allow you to take in information and content visually in the same way you take in the world.The AR devices of the future will provide personalized, accessible and well-designed experiences.AR interfaces can enrich the work environment and optimize operational efficiency while providing significant benefits in terms of safety, efficiency and productivity."
+    ],
+    "points": [
+      "INTRODUCTION TO AR",
+      "REAL-LIFE APPLICATIONS OF  AR",
+      "FUTURE SCOPE OF AR",
+      "BASICS OF C#",
+      "IMPLEMENTATION OF  AR!"
+    ]
+  },
+  {
+    "id": "VrTechnology",
+    "name": "VR TECHNOLOGY",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962590/prayukti/staticAssets/workshops/VR_jitbfw.png",
+    "type": "workshops",
+    "info": [
+      "This workshop mainly focuses on the importance of Virtual Reality in real life.",
+      "These technologies allow you to take in information and content visually in the same way you take in the world.The VR devices of the future will provide personalized, accessible and well-designed experiences.VR interfaces can enrich the work environment and optimize operational efficiency while providing significant benefits in terms of safety, efficiency and productivity."
+    ],
+    "points": [
+      "INTRODUCTION TO VR",
+      "REAL-LIFE APPLICATIONS OF  VR",
+      "FUTURE SCOPE OF VR",
+      "BASICS OF C#",
+      "IMPLEMENTATION OF  VR!"
+    ]
+  },
+  {
+    "id": "webCrawler",
+    "name": "WEB CRAWLER USING PYTHON",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674963544/prayukti/staticAssets/workshops/what_is_Web_Crawler_dmc1rb.jpg",
+    "type": "workshops",
+    "info": [
+      "Web crawling is a powerful technique to collect data from the web by finding all the URLs for one or multiple domains. Python has several popular web crawling libraries and frameworks."
+    ],
+    "points": [
+      "Introduction to web crawling and web scraping.",
+      "Setting up a python environment with modules required.",
+      "Request library: Sending HTTP Request to retrieve HTML Pages",
+      "BEAUTIFUL SOUP LIBRARY: Parsing Retrieved Pages",
+      "Navigation and searching HTML tree structures.",
+      "Handling Pagination and following links",
+      "Storing Scraped data in a CSV or JSON file"
+    ]
+  },
+  {
+    "id": "cyberSecurity",
+    "name": "CYBER SECURITY",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962594/prayukti/staticAssets/workshops/CYBER_SECURITY_ytcwmp.jpg",
+    "type": "workshops",
+    "info": [
+      "Effective cybersecurity operations rely on layers of offensive testing, defensive architecture and monitoring, forensics and incident response, cloud security, and leadership. Advancing your capabilities in these focus areas is our mission because it furthers your ability to protect us all."
+    ],
+    "points": [
+      "This workshop focuses on  cybersecurity and Linux operation.",
+      "Introduction to basics of cyber security and linux.",
+      "Exploring how to use linux.",
+      "Linux installation and exploring linux tools.",
+      "Learn how to protect your business from cyber attacks.",
+      "Protection to defend internet-connected devices and services from malicious attacks by hackers,spammers and cybercriminals."
+    ]
+  },
+  {
+    "id": "objectDetection",
+    "name": "OBJECT DETECTION USING DEEP CONVOLUTION NEURAL NETWORK",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962552/prayukti/staticAssets/workshops/OBJECT_DETECTION_USING_DEEP_CONVOLUTION_NEURAL_NETWORK_vkjbhk.jpg",
+    "type": "workshops",
+    "info": [
+      "Object detection is a computer vision technique that allows us to identify and locate objects in an image or video. With this kind of identification and localization, object detection can be used to count objects in a scene and determine and track their precise locations, all while accurately labeling them."
+    ],
+    "points": [
+      "Training the model with yolo using custom labeled data set.",
+      "Setting up yaml files and training the model",
+      "Evaluate the Model",
+      "Test the model with several types of inputs (IP cam, YouTube videos, record videos ,images)"
+    ]
+  },
+  {
+    "id": "fusion360",
+    "name": "FUSION 360",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962552/prayukti/staticAssets/workshops/flexible-3d-cad-thumb-788x444-_pelmng.jpg",
+    "type": "workshops",
+    "info": [
+      "With Fusion 360 you can create 3D designs, collaborate, manage data, create toolpaths, and run simulations to validate your designs. Fusion 360 is also the tool of choice for manufacturing, machining, engineering, and industrial design experts."
+    ],
+    "points": [
+      "Development of optimized Drone chassis using Generative Design.",
+      "Stress analysis.",
+      "Cost constraints.",
+      "Design Aesthetics.",
+      "Weight reduction in drone chassis.",
+      "Engineering innovation."
+    ]
+  },
+  {
+    "id": "mobileAppDevelopment",
+    "name": "MOBILE APP DEVELOPMENT USING FLUTTER FRAMEWORK",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962553/prayukti/staticAssets/workshops/MOBILE_APP_DEVELOPMENT_USING_FLUTTER_k882pd.jpg",
+    "type": "workshops",
+    "info": [
+      "It is the open source UI framework.It is the google developed software to create with high accuracy. It is used to develop fast accessing native APPS (IOS AND ANDROID) .MIT App Inventor is an intuitive, visual programming environment that allows everyone, even children to build fully functional apps for smartphones and tablets.Those new to MIT App Inventor can have a simple first app up and running in less than 30 minutes .App Inventor lets you develop applications for Android phones using a web browser and either a connected phone or an on-screen phone emulator."
+    ],
+    "points": [
+      "Installation and configuration of flutter in the system.",
+      "Setting up of flutter in android studio",
+      "Setting up the workshop for the MIT app inventor.",
+      "App Inventor opens the Designer window where you create the Graphical User Interface (GUI) or the look and feel of your app. You choose components like Buttons, Images, and Text boxes, and functionalities like Text-to-Speech, Sensors, and GPS"
+    ]
+  },
+  {
+    "id": "3dPrinting",
+    "name": "3D PRINTING",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674964637/prayukti/staticAssets/workshops/360_F_389350068_d1X0R6SH4vEdddoF27cjYqb6PowvSlyw_mi52wq.jpg",
+    "type": "workshops",
+    "info": [
+      "This workshop mainly focuses on the importance of 3D printing in daily applications of day to day life. This 3D printing technology will give you a new gateway to produce products as per your imagination in the simplest way. This 3D printing technology has brought a new revolution in the manufacturing industries.There are various types of 3D printers and they use various types of materials for printing.This workshop would give a basic idea of 3D printing and also helps you to bring out your own creation to the World."
+    ],
+    "points": [
+      "Introduction to 3D printing",
+      "3D designing software",
+      "Future Scope of 3D printing",
+      "Various types and uses of 3D printing"
+    ]
+  },
+  {
+    "id": "sql",
+    "name": "SQL DATABASE",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962609/prayukti/staticAssets/workshops/6eb4e380-d6d5-4a08-bb7f-bf01726ee05a_padw32.png",
+    "type": "workshops",
+    "info": [
+      "SQL stands for Structured Query Language.SQL is a database computer language designed for the retrieval and management of data in a relational database. SQL is used to perform operations on the records stored in the database, such as updating records, inserting records, deleting records, creating and modifying database tables, views, etc.SQL is not a database system, but it is a query language."
+    ],
+    "points": [
+      "Introduction",
+      "RDBMS Concept",
+      "Databases and types",
+      "Syntax, operators , expressions",
+      "Tables and query types",
+      "AND &amp, OR Clauses",
+      "Order By and Group By",
+      "Constraints,Truncate and transactions",
+      "Database Tuning"
+    ]
+  },
+  {
+    "id": "webDevelopment",
+    "name": "WEB DEVELOPMENT",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962593/prayukti/staticAssets/workshops/WEB_DESIGNING_jmzxrk.jpg",
+    "type": "workshops",
+    "info": [
+      "Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.A web developer's job is to create websites. While their primary role is to ensure the website is visually appealing and easy to navigate and to become a Web Developer, you should have an understanding of HTML, CSS, and JavaScript for frontend development.Developing these fundamental web development skills will give you the foundation and logic for communicating with programming languages."
+    ],
+    "points": [
+      "Installation and configuration of visual studio code.",
+      "Introduction to Web Development Tools, HyperText Markup Language and Cascading Style Sheets.",
+      "Introduction to JavaScript, JS Functions and Objects, JavaScript and the DOM."
+    ]
+  },
+  {
+    "id": "drone",
+    "name": "DRONE TECHNOLOGY",
+    "image": "https://res.cloudinary.com/dvfbca8ej/image/upload/v1674962599/prayukti/staticAssets/workshops/DRONE_o02hoo.png",
+    "type": "workshops",
+    "info": [
+      "The focus of this workshop is to give students hands-on experience on Drone construction and flying that are used in industries involved in Drones.Understanding the need of the students to start from basics, the training will start from introduction to the concept of drone and go up to building your own drone. We can gain knowledge about concepts of  Drones and experience on Drone flying."
+    ],
+    "points": [
+      "Basics of drone",
+      "Working of a Drone",
+      "Drone assembling and building",
+      "Drone Simulator Training",
+      "Learn drone flying concepts Virtually",
+      "Learning Assembly of Drone and its manual construction",
+      "Stability & control of drone."
+    ]
+  }
+]
