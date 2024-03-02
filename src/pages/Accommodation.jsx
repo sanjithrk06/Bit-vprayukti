@@ -54,7 +54,7 @@ const Accommodation = () => {
                 event days at free of cost<br/>
               </li>
               <li>
-                Registration desk will be open from 9th February 2023, 5:00 PM
+                Registration desk will be open from 25th March 2024, 5:00 PM
                 onwards.
               </li>
               <li>
