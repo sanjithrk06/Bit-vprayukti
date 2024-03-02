@@ -95,7 +95,7 @@ const AboutSection = () => {
                 Event Date
               </p>
               <h6 className="font-semibold text-xl tracking-wider text-accent inline-block uppercase text-center md:text-left">
-                March 27th & 28th
+                March 26th & 27th
               </h6>
             </div>
             <div
