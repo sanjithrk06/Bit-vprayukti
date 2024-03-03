@@ -78,7 +78,7 @@ const SingleEvent = () => {
               <div className="my-10 relative text-start  bg-accent border-[#444675] p-5 border-2 rounded-3xl bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-[0.1]">
                 <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                   <SlCalender className="inline-block mr-4 text-accent" />
-                  <span className=' text-lg leading-4'>March 26th & 27th, 2024</span>
+                  <span className=' text-lg leading-4'>March 27th & 28th, 2024</span>
                 </p>
                 {/* <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                   <LuClock11 className="inline-block mr-4 text-accent" />
