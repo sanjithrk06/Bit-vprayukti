@@ -14,8 +14,11 @@ export const eventsDet = [
     rulebook: "https://drive.google.com/file/d/1S4M3GG5Fo2aP2Oem7nug0nMnkueVsww2/view?usp=drive_link",
     domain: "Open topics related to engineering.",
     tag: " Prizes worth ₹5000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 850(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-4"
+    ],
     teamFormation: [
       "Two to four members in a team.",
       "Participants from any institution are welcome to form a team for the event.",
@@ -32,7 +35,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Dr. POONGODI C - 9442494115", "Dr. SAMPOORNAM K P - 9629377780", "Prof. PUSHPAVALLI M - 9943314368","Prof. DEEPA D - 9942912613", "Prof. PERARASI T - 8883850826", 
+        "Dr. POONGODI C - 9442494115", "Dr. SAMPOORNAM K P - 9629377780", "Prof. PUSHPAVALLI M - 9943314368","Prof. DEEPA D - 9942912613", "Prof. PERARASI T - 8883850826", 
         "SOUNDARRAJAN K R - 9790325055", "SRI PRASANTH V S - 8903589345"
       ],
       info: "bitvprayukti@bitsathy.ac.in",
@@ -90,7 +93,10 @@ export const eventsDet = [
     domain: "Healthcare and Medicine, Smart Transportation and Automotives, Smart Agriculture, Smart Education, Open Innovation",
     tag: " Prizes worth ₹5000",
     fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-4"
+    ],
     teamFormation: [
       "Minimum of 1 and a maximum of 4 members in a team are allowed. Any institution (School /College/ University) may form a team.",
       "Team leads could register on behalf of the team members using the given link 3) The official website BIT V-PRAYUKTI’24 must only be used for registration. 4) Team details must be confirmed prior to the Stage-I shortlisting, no further changes would be considered."
@@ -104,7 +110,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. ELANGO S - 9486417478", "Prof. DANIEL RAJ A - 9095061141", "Prof. SAJAN P PHILIP - 9025812818", 
+        "Prof. ELANGO S - 9486417478", "Prof. DANIEL RAJ A - 9095061141", "Prof. SAJAN P PHILIP - 9025812818", 
         "VIMAL RAM K C - 9677791525", "BHARAT S - 8903589345"
       ],
       info: "bitvprayukti@bitsathy.ac.in",
@@ -167,8 +173,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/1nYflJiGS8Q9Xh-LvWNGmNB_hQ8D3D8yv/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 500(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "3-5"
+    ],
     teamFormation: [
       "Construct a team of a minimum of 3 and a maximum of 5 members. Any institution (School /College/ University) may form a team.",
       "It is not mandatory for all the team members to register in the registration form, team members must sign up themselves in the link and team leads must register on behalf of the team.",
@@ -186,7 +195,7 @@ export const eventsDet = [
     contact: {
       info: "bitvprayukti@bitsathy.ac.in",
       name: [
-        // "Prof. KARTHIKEYAN S - 6369366022", "Prof. STEPHEN SAGAYARAJ A - 9095606612", 
+        "Prof. KARTHIKEYAN S - 6369366022", "Prof. STEPHEN SAGAYARAJ A - 9095606612", 
         "VINU J - 7708358737", "VISHAAL E - 6369366022"
       ]
     },
@@ -237,8 +246,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/1AojMuLNGSRHLacaoVlRh3cYJ8VQx3xsj/view?usp=drive_link",
     tag: " Prizes worth ₹5000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 500(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "3-5"
+    ],
     teamFormation: [
       "Construct a team of a minimum of 3 and a maximum of 5 members. Any institution (School /College/ University) may form a team.",
       "It is not mandatory for all the team members to register in the registration form, team members must sign up themselves in the link and team leads must register on behalf of the team.",
@@ -255,7 +267,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. SUBHARATHANA N - 9003990541", "Prof. BARANIDHARAN V - 9487414010", 
+        "Prof. SUBHARATHANA N - 9003990541", "Prof. BARANIDHARAN V - 9487414010", 
         "JAIPRASAD R - 9443927255", "PRAKASH A - 9843617455"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -309,8 +321,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/11h0PucwGpzDq-kPAkymh8u2GCrB1GcCs/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 450(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-3"
+    ],
     teamFormation: [
       "1-3",
     ],
@@ -322,7 +337,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. ARULMURUGAN L - 9095657578", "Prof. NIRMAL KUMAR R - 9965617722", 
+        "Prof. ARULMURUGAN L - 9095657578", "Prof. NIRMAL KUMAR R - 9965617722", 
         "SHANKAR V - 9345361284", "HARISANTH - 8072218587"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -372,8 +387,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/1kqA8fy2fH0xZVCYm5a6fNqkC4-5niWdO/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 500(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-5"
+    ],
     teamFormation: [
       "A team can consist of a minimum of 1 and a maximum of 5 members. Any institution or group of students may form a team or individuals may also participate."
     ],
@@ -385,7 +403,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. RAM KUMAR R - 9677227363", "Prof. SATHIYAMURTHI P - 9486111191", 
+        "Prof. RAM KUMAR R - 9677227363", "Prof. SATHIYAMURTHI P - 9486111191", 
         "SHYAM N - 6383592816", "PRABHUKUMAR - 8825422071"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -435,8 +453,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/1WEqEq6idMq8gvEIyzaVZT22-1lMODShe/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 500(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-5"
+    ],
     teamFormation: [
       "A team can consist of a minimum of 1 and a maximum of 5 members. Any institution or group of students may form a team or individuals may also participate.",
     ],
@@ -448,7 +469,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. RAMESH R - 9787878161", "Prof. VENKATESHKUMAR V - 9788923291", 
+        "Prof. RAMESH R - 9787878161", "Prof. VENKATESHKUMAR V - 9788923291", 
         "MOHAMED UVAISE A - 7339316534", "HARI NIVASAA V - 9842733134"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -498,8 +519,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/1myk0FBxqwXAqXHsyTYFF783Lmdgzyqus/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 500(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-5"
+    ],
     teamFormation: [
       "A team should contain 3 to 4 members only.",
     ],
@@ -511,7 +535,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. LEEBAN MOSES M - 9789576702", "Prof. TAMILSELVAN S - 9944934346", 
+        "Prof. LEEBAN MOSES M - 9789576702", "Prof. TAMILSELVAN S - 9944934346", 
         "LINGESH K - 8072468696", "SASIKUMAR T - 8072468696"
     ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -574,8 +598,11 @@ export const eventsDet = [
     rulebook: "https://drive.google.com/file/d/1guko-Xuue_pDQHy7yuxeqQK5sfXkKOWc/view?usp=drive_link",
     domain: "Circuit Branches [ ECE, EEE, EIE]",
     tag: " Prizes worth ₹7000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 400(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-2"
+    ],
     teamFormation: [
       "1 - 2",
     ],
@@ -587,7 +614,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. MANU RAJU - 9446534050", "Prof. RAMYA P - 9842462212", 
+        "Prof. MANU RAJU - 9446534050", "Prof. RAMYA P - 9842462212", 
         "SANJITH VISHAL S - 8072705124", "BUVAN T - 6385584963"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -637,8 +664,11 @@ export const eventsDet = [
     type: 'technical',
     rulebook: "https://drive.google.com/file/d/1tA6AboqEmYi2-M0VsBQwUzhT7iNErznF/view?usp=drive_link",
     tag: " Prizes worth ₹1000",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 400(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "1-2"
+    ],
     teamFormation: [
       "minimum 1 and maximum 2 members",
     ],
@@ -706,8 +736,11 @@ export const eventsDet = [
     type: 'nonTechnical',
     rulebook: "https://drive.google.com/file/d/1Dk_ba7EuQiZ_6FIosBzJQIOiXEUcOGDj/view?usp=drive_link",
     tag: " Rewards & Certificates",
-    fee: "RS 600(PER TEAM)",
-    deadline: "23 MARCH",
+    fee: "RS 100(PER INDIVIDUAL)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "Individual Participation"
+    ],
     teamFormation: [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -754,8 +787,11 @@ export const eventsDet = [
   type: 'nonTechnical',
   rulebook: "https://drive.google.com/file/d/18fzOBDH_htokMAwOxasttdpKfhGILaUz/view?usp=drive_link",
   tag: " Prizes worth ₹1000",
-  fee: "RS 600(PER TEAM)",
-  deadline: "23 MARCH",
+  fee: "RS 100(PER INDIVIDUAL)",
+  deadline: "20 MARCH",
+  teamCount: [
+    "Individual Participation"
+  ],
   teamFormation: [
     "Individual participation",
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -796,8 +832,11 @@ export const eventsDet = [
   type: 'nonTechnical',
   rulebook: "https://drive.google.com/file/d/1SBGZ_fa_DHoYmQkF1u99K17ZFlJugn-5/view?usp=drive_link",
   tag: "Rewards & Certificates",
-  fee: "RS 600(PER TEAM)",
-  deadline: "23 MARCH",
+  fee: "RS 150(PER TEAM)",
+  deadline: "20 MARCH",
+  teamCount: [
+    "1-3"
+  ],
   teamFormation: [
     "Individual participation",
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -811,7 +850,7 @@ export const eventsDet = [
   ],
   contact: {
     name: [
-      // "Prof. Krishnaraj R - 8015192775", 
+      "Prof. Krishnaraj R - 8015192775", 
       "MANOJ T A - 9003811835", "SUHASH E - 9345475764"
     ],
     info: "bitvprayukti@bitsathy.ac.in"
@@ -847,8 +886,11 @@ export const eventsDet = [
   type: 'nonTechnical',
   rulebook: "https://drive.google.com/file/d/1WvVQp-uQkR7r5TEvQ8pvREsDGYcuQFa9/view?usp=drive_link",
   tag: " Rewards & Certificates",
-  fee: "RS 600(PER TEAM)",
-  deadline: "23 MARCH",
+  fee: "RS 150(PER INDIVIDUAL)",
+  deadline: "20 MARCH",
+  teamCount: [
+    "Individual Participation"
+  ],
   teamFormation: [
     "Individual participation",
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -862,7 +904,7 @@ export const eventsDet = [
   ],
   contact: {
     name: [
-      // "Prof. Sharmila A - 9942029141", "Prof. Sandhiyadevi P - 8973602561", 
+      "Prof. Sharmila A - 9942029141", "Prof. Sandhiyadevi P - 8973602561", 
       "DINESH KUMAR M - 8610825871", "DHANUSH D - 9659730002"
     ],
     info: "bitvprayukti@bitsathy.ac.in"
@@ -889,8 +931,11 @@ export const eventsDet = [
   type: "nonTechnical",
   rulebook: "",
   tag: "Rewards & Certificates",
-  fee: "150 /-",
-  deadline: "23 / 03 / 2024",
+  fee: "RS 100(PER INDIVIDUAL)",
+  deadline: "20 MARCH",
+  teamCount: [
+    "Individual Participation"
+  ],
   teamFormation: [
     "Team members - 3",
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -917,8 +962,11 @@ export const eventsDet = [
     type: "nonTechnical",
     rulebook: "",
     tag: "Rewards & Certificates",
-    fee: "150 /-",
-    deadline: "23 / 03 / 2024",
+    fee: "RS 100(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "2"
+    ],
     teamFormation: [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -932,7 +980,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. Gayathri R - 9952291360", "Prof. Mythili S - 9095702682", 
+        "Prof. Gayathri R - 9952291360", "Prof. Mythili S - 9095702682", 
         "THARUN KUMARAN K E - 9688515799", "SRIRAM S S - 7904021565"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -949,8 +997,11 @@ export const eventsDet = [
     type: "nonTechnical",
     rulebook: "",
     tag: "Rewards & Certificates",
-    fee: "150 /-",
-    deadline: "23 / 03 / 2024",
+    fee: "RS 100(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "2"
+    ],
     teamFormation: [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -962,7 +1013,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. Soundarya B - 7502465203", "Prof. Pousia - 8825903636", 
+        "Prof. Soundarya B - 7502465203", "Prof. Pousia - 8825903636", 
         "GURU AADITHYA S - 7448530459", "SANDEEP S - 9384775780"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -979,8 +1030,11 @@ export const eventsDet = [
     type: "nonTechnical",
     rulebook: "",
     tag: "Rewards & Certificates",
-    fee: "150 /-",
-    deadline: "23 / 03 / 2024",
+    fee: "RS 100(PER INDIVIDUAL)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "Individual Participation"
+    ],
     teamFormation: [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -992,7 +1046,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. Vellingiri A - 9952730161", "Prof. Harish Kumar P - 8950436960", 
+        "Prof. Vellingiri A - 9952730161", "Prof. Harish Kumar P - 8950436960", 
         "RAJA PANDI P - 8778212687", "SIBI SEENIAPPAN D - 9342444864"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -1009,8 +1063,11 @@ export const eventsDet = [
     type: "nonTechnical",
     rulebook: "",
     tag: "Rewards & Certificates",
-    fee: "150 /-",
-    deadline: "23 / 03 / 2024",
+    fee: "RS 100(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "2"
+    ],
     teamFormation: [
       "Form a team of two members , from any institution (School /College/ University)",
       "It is not mandatory for all the team members to register in the registration form, team members must sign up themselves in the link and team leads must register on behalf of the team.",
@@ -1025,7 +1082,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. Abinaya - 8838212504", "Prof. Suganya Devi C R - 9677846929", 
+        "Prof. Abinaya - 8838212504", "Prof. Suganya Devi C R - 9677846929", 
         "KEERTHIVASHAN K D - 6369292101", "INDRAKUMAR - 7598529060"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -1043,8 +1100,11 @@ export const eventsDet = [
     type: "nonTechnical",
     rulebook: "",
     tag: "Rewards & Certificates",
-    fee: "150 /-",
-    deadline: "23 / 03 / 2024",
+    fee: "RS 200(PER TEAM)",
+    deadline: "20 MARCH",
+    teamCount: [
+      "2-4"
+    ],
     teamFormation: [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
@@ -1059,7 +1119,7 @@ export const eventsDet = [
     ],
     contact: {
       name: [
-        // "Prof. Manu Raju - 9446534050", 
+        "Prof. Manu Raju - 9446534050", 
         "VIJAY KUMAR K S - 6381282604", "SELVAHAREESH K - 7810013347"
       ],
       info: "bitvprayukti@bitsathy.ac.in"
@@ -1078,6 +1138,10 @@ export const eventsDet = [
     name: '3D Printing',
     image: eventImg.printing,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1101,6 +1165,10 @@ export const eventsDet = [
     name: 'Fusion 360',
     image: eventImg.fusion,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1118,6 +1186,10 @@ export const eventsDet = [
     name: 'Exposure Compensation',
     image: eventImg.exposure,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1135,6 +1207,10 @@ export const eventsDet = [
     name: 'Cinematic Story Telling',
     image: eventImg.story,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1152,6 +1228,10 @@ export const eventsDet = [
     name: 'Web Development',
     image: eventImg.web,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1169,6 +1249,10 @@ export const eventsDet = [
     name: 'Mat Lab',
     image: eventImg.matlab,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1186,6 +1270,10 @@ export const eventsDet = [
     name: 'Ethical Hacking',
     image: eventImg.ethical,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1203,6 +1291,10 @@ export const eventsDet = [
     name: 'AR/VR Technology',
     image: eventImg.newspaper,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1220,6 +1312,10 @@ export const eventsDet = [
     name: 'Mobile App Development',
     image: eventImg.mobile,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
@@ -1237,6 +1333,10 @@ export const eventsDet = [
     name: 'Cyber Security',
     image: eventImg.cyber,
     type: 'workshops',
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
     contact: {
         "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         "info": "bitvprayukti@bitsathy.ac.in"
