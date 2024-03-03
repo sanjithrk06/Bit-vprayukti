@@ -78,12 +78,12 @@ const SingleEvent = () => {
               <div className="my-10 relative text-start  bg-accent border-[#444675] p-5 border-2 rounded-3xl bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-[0.1]">
                 <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                   <SlCalender className="inline-block mr-4 text-accent" />
-                  <span className=' text-lg leading-4'>March 26th & 27th, 2024</span>
+                  <span className=' text-lg leading-4'>March 27th & 28th, 2024</span>
                 </p>
-                <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
+                {/* <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                   <LuClock11 className="inline-block mr-4 text-accent" />
                   <span className=' text-lg leading-4'>08.00 AM - 07.00 PM</span>
-                </p>
+                </p> */}
                 {/* {event?.abstract ? (
                   <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                     <CgSandClock className="inline-block mr-4 text-accent" />
@@ -150,6 +150,45 @@ const SingleEvent = () => {
                       {val}
                     </li>
                   ))}
+                  <div id='team' className=' my-10'>
+                      <h2
+                        className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
+                      >
+                        Team Size &nbsp;:&nbsp;
+                      </h2>
+                      {event?.teamCount.map((value, indx) => (
+                        <li
+                          key={indx}
+                          className="text-dimWhite font-thin point text-lg my-4 tracking-wide text-justify"
+                        >
+                          {value}
+                        </li>
+                      ))}
+                    </div>
+                    {/* <div id='deadline' className=' my-10'>  
+                      <h2
+                        className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
+                      >
+                        Registration Deadline
+                      </h2>
+                      <li
+                        className="text-dimWhite font-thin para text-lg my-4 tracking-wide text-justify"
+                      >
+                        &nbsp;&nbsp;&nbsp;&nbsp;{event?.deadline}
+                      </li>
+                    </div> */}
+                    <div id='fee' className=' my-10'>
+                      <h2
+                        className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
+                      >
+                        Registration Fees
+                      </h2>
+                      <li
+                        className="text-white font-bold para text-lg my-4 tracking-wide text-justify"
+                      >
+                        &nbsp;&nbsp;&nbsp;&nbsp;{event?.fee}
+                      </li>
+                    </div>
                 </div>
               ) : (
                 <>
@@ -197,7 +236,7 @@ const SingleEvent = () => {
                       >
                         Team Size &nbsp;:&nbsp;
                       </h2>
-                      {event?.teamFormation.map((value, indx) => (
+                      {event?.teamCount.map((value, indx) => (
                         <li
                           key={indx}
                           className="text-dimWhite font-thin point text-lg my-4 tracking-wide text-justify"
@@ -245,7 +284,7 @@ const SingleEvent = () => {
                         </li>
                       ))}
                     </div>
-                    <div id='rewards' className=' my-10'>
+                    {/* <div id='rewards' className=' my-10'>
                       <h2
                         className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
                       >
@@ -256,7 +295,7 @@ const SingleEvent = () => {
                       >
                         {event?.tag}
                       </li>
-                    </div>
+                    </div> */}
                     <div id='contact' className=' my-10'>
                       <h2
                         className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
@@ -275,7 +314,7 @@ const SingleEvent = () => {
                       <h2
                         className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
                       >
-                        Student Co-ordinators
+                        Co-ordinators
                       </h2>
                       {event.contact?.name.map((value, indx) => (
                         <li
