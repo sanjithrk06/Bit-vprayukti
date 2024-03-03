@@ -31,7 +31,7 @@ export const eventsDet = [
       "Those who need not publish thier paper, the registration deadline for abstract submission  15th of March and the selected teams can present the paper to us as mentioned in the guidelines above."
     ],
     eligibility: [ 
-      "Open to all students from any engineering background with a passion for research and presentation."
+      "Open to all students and faculties from any engineering background with a passion for research and presentation."
     ],
     contact: {
       name: [
@@ -934,7 +934,7 @@ export const eventsDet = [
   fee: "RS 100(PER INDIVIDUAL)",
   deadline: "20 MARCH",
   teamCount: [
-    "Individual Participation"
+    "1-3"
   ],
   teamFormation: [
     "Team members - 3",
