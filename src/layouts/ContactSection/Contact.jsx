@@ -88,9 +88,9 @@ const ContactSection = () => {
                         </svg>
                     </span>
                     
-                    <h2 class="mt-4 text-base font-medium text-white">Phone</h2>
-                    <p class="mt-2 text-sm text-dimWhite">Our friendly team is here to help.</p>
-                    <a class="mt-2 text-sm cursor-pointer text-accent" rel="noreferrer" target='_blank' href="tel:6381137437">6381137437</a>
+                    <h2 class="mt-4 text-base font-medium text-white">Help-Line</h2>
+                    <p class="mt-2 text-sm text-dimWhite">Any doubts?, <br/>Our friendly team is here to help.</p>
+                    <a class="mt-2 text-lg font-semibold cursor-pointer text-accent" rel="noreferrer" target='_blank' href="tel:6381137437">6381137437</a>
                 </div>
             </div>
           <div className="basis-full md:basis-2/3 md:p-4 sm:mt-10 sm:p-10">

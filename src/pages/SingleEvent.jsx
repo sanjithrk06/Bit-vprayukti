@@ -3,7 +3,6 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 import { FaDownload } from 'react-icons/fa';
 import { BsFileEarmarkText } from "react-icons/bs";
 import { SlCalender } from "react-icons/sl";
-import { LuClock11 } from "react-icons/lu";
 import { eventsDet } from '../layouts/EventsSection/Events';
 import Loader from '../components/loader';
 
@@ -78,7 +77,7 @@ const SingleEvent = () => {
               <div className="my-10 relative text-start  bg-accent border-[#444675] p-5 border-2 rounded-3xl bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-[0.1]">
                 <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                   <SlCalender className="inline-block mr-4 text-accent" />
-                  <span className=' text-lg leading-4'>March 27th & 28th, 2024</span>
+                  <span className=' text-lg leading-4'>March 26th & 27th, 2024</span>
                 </p>
                 {/* <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
                   <LuClock11 className="inline-block mr-4 text-accent" />
@@ -120,6 +119,21 @@ const SingleEvent = () => {
                     >
                       <FaDownload className="inline-block mr-4 text-accent" />
                       <span className=' text-lg leading-4'>Problem Statement</span>
+                    </a>
+                  </p>
+                )}
+                {event?.rulebook && (
+                  <p className="text-white text-xl mb-2 px-3 py-2 w-full rounded-lg">
+                    <a 
+                      href={event.rulebook}
+                      download
+                      alt="download"
+                      target="_blank"
+                      rel="noreferrer" 
+                      class=" w-full px-6 py-2 bg-dimBlue rounded-full border-[#444675] border-2 items-center text-white lg:rounded-full flex lg:inline-flex"
+                    >
+                      <span id='btn-txt' class="font-semibold mr-2 text-center flex-auto">Rulebook</span>
+                      <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="fill-current opacity-75 h-4 w-4"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"></path></svg>
                     </a>
                   </p>
                 )}
@@ -189,6 +203,36 @@ const SingleEvent = () => {
                         &nbsp;&nbsp;&nbsp;&nbsp;{event?.fee}
                       </li>
                     </div>
+                    <div id='contact' className=' my-10'>
+                      <h2
+                        className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
+                      >
+                        Contact
+                      </h2>
+                      <br/>
+                      <h2
+                        className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
+                      >
+                        Email
+                      </h2>
+                      <li className="text-dimWhite para text-lg my-2 tracking-wide text-justify">
+                        <a href={`mailto:${event.contact.info}`} className=' text-dimWhite hover:text-accent'>{event.contact.info}</a>
+                      </li>
+                      <h2
+                        className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
+                      >
+                        Student Co-ordinators
+                      </h2>
+                      {event.contact.name.student?.map((value, indx) => (
+                        <li
+                          key={indx}
+                          className="text-dimWhite font-thin point text-lg my-4 tracking-normal text-justify"
+                        >
+                          {value}
+                        </li>
+                      ))}
+                      
+                    </div>
                 </div>
               ) : (
                 <>
@@ -212,7 +256,7 @@ const SingleEvent = () => {
                         </li>
                       ))}
                     </div>
-                    {event.domain?(
+                    {/* {event.domain?(
                       <>
                       <div id='domain' className=' my-10'>
                         <h2
@@ -229,7 +273,7 @@ const SingleEvent = () => {
                       </>
                     ): (
                       <></>
-                    )}
+                    )} */}
                     <div id='team' className=' my-10'>
                       <h2
                         className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
@@ -284,6 +328,23 @@ const SingleEvent = () => {
                         </li>
                       ))}
                     </div>
+                    {event.notice? (
+                    <div id='notice' className=' my-10'>
+                      <h2
+                        className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
+                      >
+                        IMPORTANT NOTICE
+                      </h2>
+                      {event?.notice.map((value, indx) => (
+                        <li
+                          key={indx}
+                          className="text-dimWhite font-thin point text-lg my-4 tracking-wide text-justify"
+                        >
+                          {value}
+                        </li>
+                      ))}
+                    </div>
+                    ) : (<></>)}
                     {/* <div id='rewards' className=' my-10'>
                       <h2
                         className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
@@ -311,12 +372,25 @@ const SingleEvent = () => {
                       <li className="text-dimWhite para text-lg my-2 tracking-wide text-justify">
                         <a href={`mailto:${event.contact.info}`} className=' text-dimWhite hover:text-accent'>{event.contact.info}</a>
                       </li>
+                      {/* <h2
+                        className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
+                      >
+                        Faculty Co-ordinators
+                      </h2>
+                      {event.contact.name.faculty?.map((value, indx) => (
+                        <li
+                          key={indx}
+                          className="text-dimWhite font-thin point text-lg my-4 tracking-normal text-justify"
+                        >
+                          {value}
+                        </li>
+                      ))} */}
                       <h2
                         className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
                       >
-                        Co-ordinators
+                        Student Co-ordinators
                       </h2>
-                      {event.contact?.name.map((value, indx) => (
+                      {event.contact.name.student?.map((value, indx) => (
                         <li
                           key={indx}
                           className="text-dimWhite font-thin point text-lg my-4 tracking-normal text-justify"

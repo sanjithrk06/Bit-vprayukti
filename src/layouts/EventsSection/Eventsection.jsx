@@ -94,13 +94,20 @@ const EventsSection = () => {
 
             </div>
 
-        <div className="w-full relative grid dxs:grid-cols-1 xs:grid-cols-2 md:grid-cols-4 gap-x-5 mt-10 mx-auto">
-          {events
-            .filter((event) => event.type === tab)
-            .map((event) => (
-              <Event key={event.id} {...event} className=" hover:scale-50" />
-            ))}
-        </div>
+          {tab === 'workshops' ? (
+            <div className=' font-semibold text-accent sm:text-3xl dxs:text-xl text-center my-20'>Workshop Topics will be updated soon...</div>
+
+          ): (
+            <>
+              <div className="w-full relative grid dxs:grid-cols-2 xs:grid-cols-2 md:grid-cols-4 gap-x-5 mt-10">
+                {events
+                  .filter((event) => event.type === tab)
+                  .map((event) => (
+                    <Event key={event.id} {...event} className=" hover:scale-50" />
+                  ))}
+              </div>
+            </>
+          )}
         <div className="flex justify-center items-center">
           
         </div>

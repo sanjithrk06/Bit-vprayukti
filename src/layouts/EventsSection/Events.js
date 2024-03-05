@@ -11,11 +11,11 @@ export const eventsDet = [
     name: 'Paper Presentation',
     image: eventImg.paper,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1S4M3GG5Fo2aP2Oem7nug0nMnkueVsww2/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1D1j1IqRYekK7zG_qgUtTcTwzQMSzrhlQ/view?usp=drive_link",
     domain: "Open topics related to engineering.",
     tag: " Prizes worth ₹5000",
     fee: "RS 850(PER TEAM)",
-    deadline: "20 MARCH",
+    deadline: "18th March for publishing, 20th March for non-publishing papers.",
     teamCount: [
       "1-4"
     ],
@@ -24,20 +24,22 @@ export const eventsDet = [
       "Participants from any institution are welcome to form a team for the event.",
       "Registration for the paper presentation can only be done on the official event website."
     ],
-    abstract: "https://drive.google.com/file/d/1AzGwIGz_SY3z4OaLrLFy-usuDZHhTt20/view?usp=share_link",
+    abstract: "https://drive.google.com/file/d/1oKTAf1HSehrcFyOKZ4tbaJgSnMSYidk7/view?usp=sharing",
     info: [
-      "Welcome to the platform where ideas are given voice and knowledge is shared with enthusiasm. If you possess a penchant for research and a flair for articulation, then the Paper Presentation event awaits your participation. Join us as we celebrate the exchange of innovative ideas and insightful discoveries.",
-      "Those who need to publish your paper, the registration deadline for your abstracts is 13th of March and the research paper should be submitted within 15th of March and also your team should present the paper as mentioned above.",
-      "Those who need not publish thier paper, the registration deadline for abstract submission  15th of March and the selected teams can present the paper to us as mentioned in the guidelines above."
+      "Explore your scholarly depths in 'Paper Presentation'! This dynamic event challenges thought leaders, scholars, and professionals to unveil their latest research and innovative concepts. Each participant engages in sophisticated discussions, fostering creative collaborations that weave an intellectual tapestry across academic and professional realms. It's more than just a presentation; it's a platform to spotlight your intellectual finesse!",
+    ],
+    notice: [
+      "Those who need to publish your paper, the registration deadline for your abstracts and the research paper should be submitted within 18th of March and also your team should present the paper as mentioned in the rulebook.",
+      "Those who need not publish thier paper, the registration deadline for abstract submission  20th of March and the selected teams can present the paper to us as mentioned in the rulebook."
     ],
     eligibility: [ 
-      "Open to all students and faculties from any engineering background with a passion for research and presentation."
+      "Open to all students, faculties and professionalist from any background with a passion for research and presentation."
     ],
     contact: {
-      name: [
-        "Dr. POONGODI C - 9442494115", "Dr. SAMPOORNAM K P - 9629377780", "Prof. PUSHPAVALLI M - 9943314368","Prof. DEEPA D - 9942912613", "Prof. PERARASI T - 8883850826", 
-        "SOUNDARRAJAN K R - 9790325055", "SRI PRASANTH V S - 8903589345"
-      ],
+      name: {
+        faculty: ["Dr. POONGODI C", "Dr. SAMPOORNAM K P", "Prof. PUSHPAVALLI M","Prof. DEEPA D", "Prof. PERARASI T"], 
+        student: ["SOUNDARRAJAN K R - 9790325055", "SRI PRASANTH V S - 8903589345"]
+      },
       info: "bitvprayukti@bitsathy.ac.in",
     },
     // rules: [
@@ -89,7 +91,7 @@ export const eventsDet = [
     name: 'Project Presentation',
     image: eventImg.project,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1MhlXwwqzdx-2rHW3W3pOZDArQA-rDujr/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1QsLQ3ufJa-CUBhlzYPQGd-GhO2uZwZ12/view?usp=drive_link",
     domain: "Healthcare and Medicine, Smart Transportation and Automotives, Smart Agriculture, Smart Education, Open Innovation",
     tag: " Prizes worth ₹5000",
     fee: "RS 600(PER TEAM)",
@@ -101,18 +103,18 @@ export const eventsDet = [
       "Minimum of 1 and a maximum of 4 members in a team are allowed. Any institution (School /College/ University) may form a team.",
       "Team leads could register on behalf of the team members using the given link 3) The official website BIT V-PRAYUKTI’24 must only be used for registration. 4) Team details must be confirmed prior to the Stage-I shortlisting, no further changes would be considered."
     ],
-    abstract: "https://drive.google.com/file/d/1FatsuX3ALoVyFm08_1wxa325LHVUkh1D/view?usp=share_link",
+    abstract: "https://docs.google.com/presentation/d/1c1sRB8Kyf8RKfYxECD4-LQsy7hH0CYTU/edit?usp=drive_link",
     info: [
-      "Project presentation mainly focuses on innovation. After registration each team will be allotted a venue and respective time slot for their presentation. The decision of judges will be final and no arguments or appeal will be entertained."
+      "Project Presentation stands out as a distinguished platform for visionaries, experts, and academics to unveil their cutting-edge projects and inventive strategies. It fosters lively discussions and sparks the creation of distinctive collaborations, paving the way for revolutionary advancements in both academic realms and the industry landscape."
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with their respective ID cards."
+      "Open to all students from any background with their valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. ELANGO S - 9486417478", "Prof. DANIEL RAJ A - 9095061141", "Prof. SAJAN P PHILIP - 9025812818", 
-        "VIMAL RAM K C - 9677791525", "BHARAT S - 8903589345"
-      ],
+      name: {
+        faculty: ["Prof. ELANGO S", "Prof. DANIEL RAJ A", "Prof. SAJAN P PHILIP"], 
+        student: ["VIMAL RAM K C - 9677791525", "BHARAT S - 8903589345"]
+      },
       info: "bitvprayukti@bitsathy.ac.in",
     },
     // teamInfo: [
@@ -171,7 +173,7 @@ export const eventsDet = [
     name: 'AIML Hackathon',
     image: eventImg.aiml,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1nYflJiGS8Q9Xh-LvWNGmNB_hQ8D3D8yv/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1izeJYkph6k_lHeHcpcx4V_9Sggtf86VC/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -184,20 +186,20 @@ export const eventsDet = [
       "Register a team for the specified competition online on the official BIT V-PRAYUKTI’24 website only.",
       "Team details must be confirmed prior to the Stage-I shortlisting process, no further changes in the team details are encouraged."
     ],
-    problem: "https://drive.google.com/file/d/1UMQ3PDKHNckZel3HZqTk0uE5rFo-FlaO/view?usp=share_link",
-    abstract: "https://docs.google.com/presentation/d/1UeFqhRu-jx156mlYU7tQ2qei4M79DkS1/edit?usp=share_link&ouid=111562506663857940451&rtpof=true&sd=true",
+    problem: "",
+    abstract: "https://docs.google.com/presentation/d/1g2GppBAtUddcDa6GeSmbu-bkyMFQkVdx/edit?usp=drive_link",
     info: [
-      "There have been people willing to predict the future of technology ever since the first technologies were developed. Hackathons are where our crazy ideas become reality. Here we come up with a hack to ascertain the intellect of individuals. We combine magic and science to create illusions. We work with new media and interactive technologies, things like AI/ML, IoT or computer vision, and integrate them in our magic. The key to AI has always been representation. Get ready to witness machine intelligence and Internet of Things in working out real time concerns with a feasible approach."
+      "AI/ML Hackathon is a collaborative event where tech enthusiasts, data scientists, and developers come together to engage in intensive, time-bound programming sessions. Focused on artificial intelligence and machine learning, participants work on real-world challenges, brainstorming and implementing innovative solutions within a set timeframe."
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
       info: "bitvprayukti@bitsathy.ac.in",
-      name: [
-        "Prof. KARTHIKEYAN S - 6369366022", "Prof. STEPHEN SAGAYARAJ A - 9095606612", 
-        "VINU J - 7708358737", "VISHAAL E - 6369366022"
-      ]
+      name: {
+        faculty: ["Prof. KARTHIKEYAN S", "Prof. STEPHEN SAGAYARAJ A"], 
+        student: ["HARISH C - 6380728032", "VISHAAL E - 6369366022"]
+      }
     },
     // rewards: [
     //   " Prizes worth Rs.7000 for the best solutions (Winner and Runner).",
@@ -244,7 +246,7 @@ export const eventsDet = [
     name: 'IOT Hackathon',
     image: eventImg.iot,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1AojMuLNGSRHLacaoVlRh3cYJ8VQx3xsj/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/19Q16Srl2ZZyqSCu81-fmi7AgDBY9sjfc/view?usp=drive_link",
     tag: " Prizes worth ₹5000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -257,19 +259,19 @@ export const eventsDet = [
       "Register a team for the specified competition online on the official BIT V-PRAYUKTI’24 website only.",
       "Team details must be confirmed prior to the Stage-I shortlisting process, no further changes in the team details are encouraged."
     ],
-    problem: "https://drive.google.com/file/d/1JcmwDqUW715O9uz2DIlH1_hEbrOR3UqZ/view?usp=share_link",
-    abstract: "https://docs.google.com/presentation/d/1WM1ubNhv1fx_Fr-QDQ3cGUA-tMceT4Vy/edit?usp=share_link&ouid=111562506663857940451&rtpof=true&sd=true",
+    problem: "",
+    abstract: "https://docs.google.com/presentation/d/18oB5oKRCYJaJmiDB-er65PmkpStLgeoU/edit?usp=drive_link",
     info: [
-      "There have been people willing to predict the future of technology ever since the first technologies were developed. Hackathons are where our crazy ideas become reality. Here we come up with a hack to ascertain the intellect of individuals. We combine magic and science to create illusions. We work with new media and interactive technologies, things like AI/ML, IoT or computer vision, and integrate them in our magic. The key to AI has always been representation. Get ready to witness machine intelligence and Internet of Things in working out real time concerns with a feasible approach."
+      "IoT Hackathon is an immersive event where Tech enthusiasts, developers, and engineers collaborate to create innovative solutions within the realm of the Internet of Things (IoT). Participants engage in hands-on coding and problem-solving, leveraging connected devices to address real-world challenges and push the boundaries of IoT applications."
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. SUBHARATHANA N - 9003990541", "Prof. BARANIDHARAN V - 9487414010", 
-        "JAIPRASAD R - 9443927255", "PRAKASH A - 9843617455"
-      ],
+      name: {
+        faculty: ["Prof. SUBHARATHANA N", "Prof. BARANIDHARAN V"], 
+        student: ["KAVIRAJ A - 9865310135", "PRAKASH A - 9843617455"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // rewards: [
@@ -319,7 +321,7 @@ export const eventsDet = [
     name: 'Entrepreneurship',
     image: eventImg.entrepreneur,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/11h0PucwGpzDq-kPAkymh8u2GCrB1GcCs/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1IoWX_4RASBk-rM7G6QSz0olb2UQgDCN3/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 450(PER TEAM)",
     deadline: "20 MARCH",
@@ -330,16 +332,16 @@ export const eventsDet = [
       "1-3",
     ],
     info: [
-      "Unleash your inner entrepreneur! This event is designed to test your business savvy, marketing skills, and innovative thinking. Expect to be challenged with thought-provoking scenarios, showcase your persuasive abilities, and develop a groundbreaking business idea in a fast-paced environment. Impress the judges with your critical thinking, positivity, creativity, and vision to stand out and become the next entrepreneurial star!"
+      "Ignite your entrepreneurial spirit! Dive into an event crafted to assess your business acumen, marketing finesse, and inventive mindset. Brace yourself for stimulating challenges, where you'll unveil persuasive prowess and craft a revolutionary business concept in a high-energy setting. Impress the judges with your critical thinking, positivity, creativity, and vision – step into the spotlight and emerge as the next entrepreneurial sensation!"
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. ARULMURUGAN L - 9095657578", "Prof. NIRMAL KUMAR R - 9965617722", 
-        "SHANKAR V - 9345361284", "HARISANTH - 8072218587"
-      ],
+      name: {
+        faculty: ["Prof. ARULMURUGAN L", "Prof. NIRMAL KUMAR R"], 
+        student: ["SHANKAR V - 9345361284", "HARISANTH - 8072218587"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // teamInfo: ["Team size 1-5 members per team"],
@@ -385,7 +387,7 @@ export const eventsDet = [
     name: 'Line Follower',
     image: eventImg.line,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1kqA8fy2fH0xZVCYm5a6fNqkC4-5niWdO/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1K-PZtWC0h1umglmw_x3WdiXRqfnFrBa8/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -396,16 +398,16 @@ export const eventsDet = [
       "A team can consist of a minimum of 1 and a maximum of 5 members. Any institution or group of students may form a team or individuals may also participate."
     ],
     info: [
-      "Build your own autonomous robot within the specified dimensions to achieve the maximum speed to beat other robots on the given track and reach the destination in minimum time. The robot must start behind the starting point and is considered to have crossed the finishing line if any part of the robot crosses it in a full lap of the course. The robot must follow the black line. The competition area has a special place defined for the robot’s operation."
+      "Embark on the Line Follower challenge! This event is tailor-made to put your engineering skills to the test as you design a robot to navigate a predefined path autonomously. Get ready for an exhilarating experience where precision, problem-solving, and innovative thinking come together. Showcase your robotic finesse, overcome challenges, and emerge as the mastermind behind the next-gen Line Follower robot!"
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. RAM KUMAR R - 9677227363", "Prof. SATHIYAMURTHI P - 9486111191", 
-        "SHYAM N - 6383592816", "PRABHUKUMAR - 8825422071"
-      ],
+      name: {
+        faculty: ["Prof. RAM KUMAR R", "Prof. SATHIYAMURTHI P"], 
+        student: ["SHYAM N - 6383592816", "PRABHUKUMAR - 8825422071"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // rewards: [
@@ -451,7 +453,7 @@ export const eventsDet = [
     name: 'Maze Solver',
     image: eventImg.maze,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1WEqEq6idMq8gvEIyzaVZT22-1lMODShe/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/10PS8tnLMFWvVs0c8Aj7Bg8b1pBf5q4_k/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -462,16 +464,16 @@ export const eventsDet = [
       "A team can consist of a minimum of 1 and a maximum of 5 members. Any institution or group of students may form a team or individuals may also participate.",
     ],
     info: [
-      "Build your own autonomous robot within the specified dimensions to achieve the maximum speed to beat other robots on the given track and reach the destination in minimum time. The robot must start behind the starting point and is considered to have crossed the finishing line if any part of the robot crosses it in a full lap of the course. The robot must follow the black line. The competition area has a special place defined for the robot’s operation."
+      "Embark on Maze Explorer! Engineer a robot for maze mastery. Your precision and innovative touch could crown you as the genius behind the future of maze-navigating robots!"
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. RAMESH R - 9787878161", "Prof. VENKATESHKUMAR V - 9788923291", 
-        "MOHAMED UVAISE A - 7339316534", "HARI NIVASAA V - 9842733134"
-      ],
+      name: {
+        faculty: ["Prof. RAMESH R", "Prof. VENKATESHKUMAR V"], 
+        student: ["MOHAMED UVAISE A - 7339316534", "HARI NIVASAA V - 9842733134"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // teamInfo: ["Team size 1-5 members per team"],
@@ -517,7 +519,7 @@ export const eventsDet = [
     name: 'Robo Soccer',
     image: eventImg.robo,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1myk0FBxqwXAqXHsyTYFF783Lmdgzyqus/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1s27Di7NHGXscRtzErGIkLN5glcPnlAcf/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -528,16 +530,16 @@ export const eventsDet = [
       "A team should contain 3 to 4 members only.",
     ],
     info: [
-      "The Robo Soccer event is an exhilarating showcase of robotics and artificial intelligence, where teams design and program autonomous robots to compete in a thrilling soccer match. Participants unleash their technical ingenuity to create robots capable of dribbling, passing, and scoring goals. The event combines elements of engineering, programming, and strategy as teams strive to outmaneuver and outscore their opponents. It's a fascinating collision of technology and sportsmanship, pushing the boundaries of what robotics can achieve in a dynamic and competitive environment."
+      "Dive into the thrill of Robo Soccer! This event invites enthusiasts to design and showcase their robotic soccer players in intense, competitive matches. Engineer your way to victory as your robots showcase agility, strategy, and technical finesse on the miniature soccer field. It's a dynamic showdown where innovation meets the excitement of the game. Join us for Robo Soccer and bring your mechanical team to life in this electrifying competition!"
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. LEEBAN MOSES M - 9789576702", "Prof. TAMILSELVAN S - 9944934346", 
-        "LINGESH K - 8072468696", "SASIKUMAR T - 8072468696"
-    ],
+      name: {
+        faculty: ["Prof. LEEBAN MOSES M", "Prof. TAMILSELVAN S"], 
+        student: ["LINGESH K - 8072468696", "SASIKUMAR T - 9790502743"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // rewards: [
@@ -595,7 +597,7 @@ export const eventsDet = [
     name: 'Circuit Debugging',
     image: eventImg.circuit,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1guko-Xuue_pDQHy7yuxeqQK5sfXkKOWc/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1eSD1ry5tLPHdaH9MVB4sy9ukfOX_rRXq/view?usp=drive_link",
     domain: "Circuit Branches [ ECE, EEE, EIE]",
     tag: " Prizes worth ₹7000",
     fee: "RS 400(PER TEAM)",
@@ -607,16 +609,16 @@ export const eventsDet = [
       "1 - 2",
     ],
     info: [
-      "Circuit debugging is the process of identifying and resolving issues or errors within an electrical circuit. This typically involves troubleshooting to pinpoint faults such as incorrect connections, faulty components, or design flaws that prevent the circuit from functioning properly. Debugging may require the use of specialized tools such as multimeters, oscilloscopes, or circuit simulation software. Effective debugging often involves a systematic approach, testing individual components and connections until the problem is isolated and corrected."
+      "Delve into the Circuit Debugging challenge! Tech enthusiasts showcase skills in identifying and fixing glitches in electronic circuits. Join for hands-on tasks, precision, problem-solving, and refining electronic pathways. It's the ultimate test for electronics enthusiasts!"
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. MANU RAJU - 9446534050", "Prof. RAMYA P - 9842462212", 
-        "SANJITH VISHAL S - 8072705124", "BUVAN T - 6385584963"
-      ],
+      name: {
+        faculty: ["Prof. MANU RAJU", "Prof. RAMYA P"], 
+        student: ["SANJITH VISHAL S - 8072705124", "BUVAN T - 6385584963"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // teamInfo: ["Team size 1-5 members per team"],
@@ -662,7 +664,7 @@ export const eventsDet = [
     name: 'Tech It Out',
     image: eventImg.techitout,
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1tA6AboqEmYi2-M0VsBQwUzhT7iNErznF/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1NuH8zE81OyC6t0oP5C3wVkYkKaKG6ySr/view?usp=drive_link",
     tag: " Prizes worth ₹1000",
     fee: "RS 400(PER TEAM)",
     deadline: "20 MARCH",
@@ -673,16 +675,16 @@ export const eventsDet = [
       "minimum 1 and maximum 2 members",
     ],
     info: [
-      "Tech it Out, a distinctive segment within TechQuest, is tailored for participants to exhibit their technical prowess. In this challenge, individuals navigate through a series of intricate problems within a designated timeframe, engaging in a dynamic marathon. Here, participants not only demonstrate efficiency but  also showcase the artistry of elegant problem-solving. As a professional competition, Tech it Out serves as a direct evaluation of participants' technical skills, providing a real-time measure of their domain-specific expertise."
+      "Tech it Out, a standout in TechQuest, lets participants flaunt technical prowess. In this challenge, navigate intricate problems within a set timeframe, showcasing efficiency and the artistry of elegant problem-solving. As a professional competition, Tech it Out offers a real-time measure of participants' domain-specific expertise."
     ],
     eligibility: [
-      "Open to all students from any Engineering branches with valid student ID cards."
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. SANJOY DEB - 8489336839", "Prof. KANTHIMATHI N - 9940184550", 
-        "DINESH KUMAR M - 8610825871", "HARISH R - 9843746377"
-      ],
+      name: {
+        faculty: ["Prof. SANJOY DEB", "Prof. KANTHIMATHI N"], 
+        student: ["DINESH KUMAR M - 8610825871", "HARISH R - 9843746377"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     },
     // teamInfo: ["Single Participation"],
@@ -734,7 +736,7 @@ export const eventsDet = [
     name: 'Quiz',
     image: eventImg.quiz,
     type: 'nonTechnical',
-    rulebook: "https://drive.google.com/file/d/1Dk_ba7EuQiZ_6FIosBzJQIOiXEUcOGDj/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1YOeu4xG3yg2xeYJXwiu1x3ancq4-FFfq/view?usp=drive_link",
     tag: " Rewards & Certificates",
     fee: "RS 100(PER INDIVIDUAL)",
     deadline: "20 MARCH",
@@ -746,18 +748,18 @@ export const eventsDet = [
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
     ],
     info: [
-      "Being a series buff doesn't come easily to everyone. It takes certain astonishing abilities such as remembering the plot line for 8 seasons and forgetting the last season ever happened for your sanity. If you think your memory is up to par? Participate and find out in this enthralling event created only for all the netflix and chill people out there."
+      "Calling all series buffs! Test your memory skills in this enthralling event crafted exclusively for the Netflix and chill enthusiasts. Can you remember intricate plot lines across 8 seasons while blissfully forgetting the last one? Join in and find out if your memory is up to the challenge!"
     ],
     eligibility: [
-      "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-      "Open to all students from any Engineering branches with valid student ID cards."
+      // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
       info: "bitvprayukti@bitsathy.ac.in",
-      name: [
-        "Prof. Saranya N - 8883659259", "Prof. Dhanalakshmi S - 9025609900", 
-        "VINETH R - 6382129544", "DIKSHITH S - 7418028834"
-      ]
+      name: {
+        faculty: ["Prof. Saranya N", "Prof. Dhanalakshmi S"], 
+        student: ["VINETH R - 6382129544", "DIKSHITH S - 7418028834"]
+      }
     },
     // teamInfo: ["Individual Participation"],
     // rules: [
@@ -785,7 +787,7 @@ export const eventsDet = [
   name: 'Theme Photography',
   image: eventImg.theme,
   type: 'nonTechnical',
-  rulebook: "https://drive.google.com/file/d/18fzOBDH_htokMAwOxasttdpKfhGILaUz/view?usp=drive_link",
+  rulebook: "https://drive.google.com/file/d/12wSFpkZiFwMlBls0s-l2hFAQyoHPr_H7/view?usp=drive_link",
   tag: " Prizes worth ₹1000",
   fee: "RS 100(PER INDIVIDUAL)",
   deadline: "20 MARCH",
@@ -797,17 +799,17 @@ export const eventsDet = [
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
   ],
   info: [
-    "If you are a shutterbug and want to show off your photography skills! You are at the right place. For a selected theme, you can explore the given boundaries and capture your mind in pixels. Showcase your presence of mind and freeze the memory in time."
+    "If you're a shutterbug eager to flaunt your skills, this is your stage. Explore the boundaries of a selected theme, freeze your mind in pixels, and exhibit your presence of mind. It's a chance to immortalize memories in the art of photography!"
   ],
   eligibility: [
-    "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-    "Open to all students from any Engineering branches with valid student ID cards."
+    // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+    "Open to all students from any background with valid ID cards."
   ],
   contact: {
-    name: [
-      "Prof. Ajin R Nair - 8547957100", 
-      "RITHIVIK R - 6374717620", "SATHEESH KUMAR K - 9345577429"
-    ],
+    name: {
+      faculty: ["Prof. Ajin R Nair"], 
+      student: ["RITHIVIK R - 6374717620", "SATHEESH KUMAR K - 9345577429"]
+    },
     info: "bitvprayukti@bitsathy.ac.in"
   },
   // teamInfo: ["Individual Participation."],
@@ -830,7 +832,7 @@ export const eventsDet = [
   name: 'Bridge Making',
   image: eventImg.bridge,
   type: 'nonTechnical',
-  rulebook: "https://drive.google.com/file/d/1SBGZ_fa_DHoYmQkF1u99K17ZFlJugn-5/view?usp=drive_link",
+  rulebook: "https://drive.google.com/file/d/1Tbplwvx_VGND2er_Nc9YXclycMq8ssfN/view?usp=drive_link",
   tag: "Rewards & Certificates",
   fee: "RS 150(PER TEAM)",
   deadline: "20 MARCH",
@@ -842,17 +844,17 @@ export const eventsDet = [
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
   ],
   info: [
-    "Get ready to unleash your inner engineer and let creativity flow! This exhilarating game will have you building magnificent bridges using nothing but popsicle sticks and glue.Prepare to be amazed by your creations and the thrilling competition that awaits!"
+    "Prepare to channel your inner engineer in the exhilarating Bridge Making challenge! Unleash creativity as you construct magnificent bridges using only popsicle sticks and glue. Get ready to be amazed by your creations and immerse yourself in the thrilling competition that awaits!"
   ],
   eligibility: [
-    "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-    "Open to all students from any Engineering branches with valid student ID cards."
+    // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+    "Open to all students from any background with valid ID cards."
   ],
   contact: {
-    name: [
-      "Prof. Krishnaraj R - 8015192775", 
-      "MANOJ T A - 9003811835", "SUHASH E - 9345475764"
-    ],
+    name: {
+      faculty: ["Prof. Krishnaraj R"], 
+      student: ["MANOJ T A - 9003811835", "SUHASH E - 9345475764"]
+    },
     info: "bitvprayukti@bitsathy.ac.in"
   },
   // teamInfo: ["Individual Participation."],
@@ -884,7 +886,7 @@ export const eventsDet = [
   name: 'Rubik\'s Cube',
   image: eventImg.cube,
   type: 'nonTechnical',
-  rulebook: "https://drive.google.com/file/d/1WvVQp-uQkR7r5TEvQ8pvREsDGYcuQFa9/view?usp=drive_link",
+  rulebook: "https://drive.google.com/file/d/16XYL57QOlSIOHb6I4Tw05nHq3E0UBV4j/view?usp=drive_link",
   tag: " Rewards & Certificates",
   fee: "RS 150(PER INDIVIDUAL)",
   deadline: "20 MARCH",
@@ -896,17 +898,17 @@ export const eventsDet = [
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
   ],
   info: [
-    "This is a fun enthusiastic game and get ready to challenge your Brain. The participants' completion times will be recorded, and the results will be determined based on those times."
+    "Get ready to twist and turn in our Rubik's Cube Challenge! Participants will showcase their cube-solving skills, employing tricks to outsmart the challenge. The clock is ticking, and the evaluation is based on how swiftly you conquer the Rubik's Cube. It's a test of both strategy and speed – are you up for the challenge?"
   ],
   eligibility: [
-    "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-    "Open to all students from any Engineering branches with valid student ID cards."
+    // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+    "Open to all students from any background with valid ID cards."
   ],
   contact: {
-    name: [
-      "Prof. Sharmila A - 9942029141", "Prof. Sandhiyadevi P - 8973602561", 
-      "DINESH KUMAR M - 8610825871", "DHANUSH D - 9659730002"
-    ],
+    name: {
+      faculty: ["Prof. Sharmila A", "Prof. Sandhiyadevi P"], 
+      student: ["DINESH KUMAR M - 8610825871", "DHANUSH D - 9659730002"]
+    },
     info: "bitvprayukti@bitsathy.ac.in"
   },
   // teamInfo: ["Individual Participation."],
@@ -929,7 +931,7 @@ export const eventsDet = [
   name: "Puzzle",
   image: eventImg.puzzle,
   type: "nonTechnical",
-  rulebook: "",
+  rulebook: "https://drive.google.com/file/d/1LlmFJiPrbK0rAyjNxiTKyODkfFvhkzoF/view?usp=drive_link",
   tag: "Rewards & Certificates",
   fee: "RS 100(PER INDIVIDUAL)",
   deadline: "20 MARCH",
@@ -940,16 +942,18 @@ export const eventsDet = [
     "Team members - 3",
     "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
   ],
-  info: ["A puzzle is a type of game or problem that requires mental effort to solve. It typically involves challenges or obstacles that need to be overcome by using logic, reasoning, and problem-solving skills. Puzzles can come in various forms, such as crossword puzzles, Sudoku, riddles, brain teasers, and more. The goal of a puzzle is to find a solution or complete a specific pattern, often by manipulating or rearranging pieces or information. Puzzles are often used for entertainment, cognitive development, and as a way to challenge and stimulate the mind."],
+  info: [
+    "Get set for the mind-bending Puzzles Extravaganza! Dive into a world where logic and creativity collide as you navigate through crossword puzzles, Sudoku, brain teasers, and more. Prepare to be captivated by the challenge, immerse yourself in the joy of problem-solving, and brace for the exhilarating competition that lies ahead!"
+  ],
   eligibility: [
-    "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-    "Open to all students from any Engineering branches with valid student ID cards."
+    // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+    "Open to all students from any background with valid ID cards."
   ],
   contact: {
-    name: [
-      // "Prof. Karthiga - 9994042518", "Prof. Annapoorani B T - 6374542937", 
-      "KAVIN PARITHI S - 9025932226", "SETHURAJAN M - 9345825205"
-    ],
+    name: {
+      faculty: ["Prof. Karthiga", "Prof. Annapoorani B T"], 
+      student: ["KAVIN PARITHI S - 9025932226", "SETHURAJAN M - 9345825205"]
+    },
     info: "bitvprayukti@bitsathy.ac.in"
   }
 },
@@ -960,7 +964,7 @@ export const eventsDet = [
     name: "Mock CID",
     image: eventImg.cid,
     type: "nonTechnical",
-    rulebook: "",
+    rulebook: "https://drive.google.com/file/d/1_TCmbs6WcNtBfh31Fvnp7MzPMSxcmTWw/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER TEAM)",
     deadline: "20 MARCH",
@@ -972,17 +976,17 @@ export const eventsDet = [
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
     ],
     info: [
-      "It is a replica of CID, a fascinating event for all investigative generals out there. Join us and help find the real culprit. Each group will go through the round, and whosoever completes the round fastest will qualify for the final round. Selected ones will be further moving to round-two in which they have to solve a Murder Mystery. Teams who complete in the shortest time will be winning the Mock-CID."
+      "Step into the shoes of an investigative genius in our Mock-CID event – a thrilling experience for all aspiring detectives! Join us in uncovering the real culprit as each group races through the rounds. The fastest to complete will qualify for the final challenge – solving a Murder Mystery. Teams displaying exceptional sleuthing skills in the shortest time will emerge victorious in this captivating Mock-CID adventure!"
     ],
     eligibility: [
-      "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-      "Open to all students from any Engineering branches with valid student ID cards."
+      // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. Gayathri R - 9952291360", "Prof. Mythili S - 9095702682", 
-        "THARUN KUMARAN K E - 9688515799", "SRIRAM S S - 7904021565"
-      ],
+      name: {
+        faculty: ["Prof. Gayathri R", "Prof. Mythili S"], 
+        student: ["THARUN KUMARAN K E - 9688515799", "SRIRAM S S - 7904021565"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     }
   },
@@ -995,7 +999,7 @@ export const eventsDet = [
     name: "Connections",
     image: eventImg.connections,
     type: "nonTechnical",
-    rulebook: "",
+    rulebook: "https://drive.google.com/file/d/1AV7HjGYYIkD7JdQ1EE9XjMlmyfiY-UUU/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER TEAM)",
     deadline: "20 MARCH",
@@ -1006,16 +1010,18 @@ export const eventsDet = [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
     ],
-    info: ["Sharp up your mind and crack the connecting word between pictures. This competition judges your quick ability to answer the hidden word behind the pictures. Every team will be given a specific set of pictures within the time limit, you need to guess the correct answer. Based on the Answer, Points are awarded for a team. Judgment will be based on the points scored by each team."],
+    info: [
+      "Engage your intellect in the Connections Challenge! Uncover the linking word between images, make swift and accurate guesses within the time limit, and accumulate points for your team. The competition's judgment hinges on your accumulated points—a rapid and sharp-witted challenge that keeps your mind agile and connected!"
+    ],
     eligibility: [
-      "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-      "Open to all students from any Engineering branches with valid student ID cards."
+      // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. Soundarya B - 7502465203", "Prof. Pousia - 8825903636", 
-        "GURU AADITHYA S - 7448530459", "SANDEEP S - 9384775780"
-      ],
+      name: {
+        faculty: ["Prof. Soundarya B", "Prof. Pousia"], 
+        student: ["GURU AADITHYA S - 7448530459", "SANDEEP S - 9384775780"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     }
   },
@@ -1028,7 +1034,7 @@ export const eventsDet = [
     name: "Da vinci's Newspaper",
     image: eventImg.newspaper,
     type: "nonTechnical",
-    rulebook: "",
+    rulebook: "https://drive.google.com/file/d/1sXUUv1uB6cH95ziD8J5yJvEjmGlZFzWO/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER INDIVIDUAL)",
     deadline: "20 MARCH",
@@ -1039,16 +1045,18 @@ export const eventsDet = [
       "Individual participation",
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
     ],
-    info: ["This quiz is a very powerful activity that can meet many teaching needs, from simple, multiple-choice knowledge tests to complex, self assessment tasks with detailed feedback. In order to win this informal quiz, we have to have our minds sharper and eccentric enough to become part of Da Vinci’s Newspaper."],
+    info: [
+      "Immerse yourself in the Da Vinci’s Newspaper Quiz—a versatile intellectual challenge. Sharpen your mind with eccentric thinking and engage in diverse questions covering general knowledge. The participant atop the leaderboard claims victory, showcasing practical knowledge in this engaging competition."
+    ],
     eligibility: [
-      "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-      "Open to all students from any Engineering branches with valid student ID cards."
+      // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. Vellingiri A - 9952730161", "Prof. Harish Kumar P - 8950436960", 
-        "RAJA PANDI P - 8778212687", "SIBI SEENIAPPAN D - 9342444864"
-      ],
+      name: {
+        faculty: ["Prof. Vellingiri A", "Prof. Harish Kumar P"], 
+        student: ["RAJA PANDI P - 8778212687", "SIBI SEENIAPPAN D - 9342444864"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     }
   },
@@ -1061,7 +1069,7 @@ export const eventsDet = [
     name: "Action Speaks",
     image: eventImg.speaks,
     type: "nonTechnical",
-    rulebook: "",
+    rulebook: "https://drive.google.com/file/d/1XBl17qFLk-nwrcjgt-8Pflq577BPMbRY/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER TEAM)",
     deadline: "20 MARCH",
@@ -1074,17 +1082,17 @@ export const eventsDet = [
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
     ],
     info: [
-      "This is a fun enthusiastic game for those whose actions are more powerful than their words. Each registered team will go through the first round and the top 3 best performing team will be selected for the final round."
+      "Step into the world of 'Action Speaks,' where silent expressions become the language of cinema. Decode movies through creative gestures, leading to a blindfolded challenge in the final act. It's a cinematic journey of non-verbal prowess and thrilling surprises!"
     ],
     eligibility: [
-      "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-      "Open to all students from any Engineering branches with valid student ID cards."
+      // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. Abinaya - 8838212504", "Prof. Suganya Devi C R - 9677846929", 
-        "KEERTHIVASHAN K D - 6369292101", "INDRAKUMAR - 7598529060"
-      ],
+      name: {
+        faculty: ["Prof. Abinaya", "Prof. Suganya Devi C R"], 
+        student: ["KEERTHIVASHAN K D - 6369292101", "DIVAKARRAJ R - 9047062277"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     }
   },
@@ -1098,7 +1106,7 @@ export const eventsDet = [
     name: "Shoot and Broadcast",
     image: eventImg.shoot,
     type: "nonTechnical",
-    rulebook: "",
+    rulebook: "https://drive.google.com/file/d/14-GDbOnJduY5p8l3EzWyBL66PpD-HzHc/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 200(PER TEAM)",
     deadline: "20 MARCH",
@@ -1110,18 +1118,17 @@ export const eventsDet = [
       "Registration for any competition can only be done on the official BIT V-PRAYUKTI’24 website only."
     ],
     info: [
-      "Dust up your cameras and unwrap the videographer in you. This competition judges the ability of your creativity and storytelling skills. Every team will be given an on spot theme and a location will be allotted within the campus. You need to capture a short video of 2 minutes within the deadline based on the theme provided. Judgment will be based on how creatively you deliver the content through your lenses.",
-      "Theme will be given on the spot."
+      "Unleash your inner videographer in 'Shoot and Broadcast'! This dynamic competition tests your creativity and storytelling prowess. Each team receives an on-the-spot theme and a campus location to capture a 60-second video within the deadline. Judged on the creative delivery of content through your lenses, it's an exciting challenge to showcase your filmmaking skills!"
     ],
     eligibility: [
-      "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
-      "Open to all students from any Engineering branches with valid student ID cards."
+      // "Participation in at least one technical event is mandatory for eligibility in any non-technical event.",
+      "Open to all students from any background with valid ID cards."
     ],
     contact: {
-      name: [
-        "Prof. Manu Raju - 9446534050", 
-        "VIJAY KUMAR K S - 6381282604", "SELVAHAREESH K - 7810013347"
-      ],
+      name: {
+        faculty: [ "Prof. Manu Raju" ], 
+        student: ["VIJAY KUMAR K S - 6381282604", "SELVAHAREESH K - 7810013347"]
+      },
       info: "bitvprayukti@bitsathy.ac.in"
     }
   },
@@ -1138,16 +1145,20 @@ export const eventsDet = [
     name: '3D Printing',
     image: eventImg.printing,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"],
+        },
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-        "This workshop mainly focuses on the importance of 3D printing in daily applications of day to day life. This 3D printing technology will give you a new gateway to produce products as per your imagination in the simplest way. This 3D printing technology has brought a new revolution in the manufacturing industries.There are various types of 3D printers and they use various types of materials for printing.This workshop would give a basic idea of 3D printing and also helps you to bring out your own creation to the World."
+        "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
     points: [
       "Introduction to 3D printing",
@@ -1165,16 +1176,20 @@ export const eventsDet = [
     name: 'Fusion 360',
     image: eventImg.fusion,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1186,16 +1201,20 @@ export const eventsDet = [
     name: 'Exposure Compensation',
     image: eventImg.exposure,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1207,16 +1226,20 @@ export const eventsDet = [
     name: 'Cinematic Story Telling',
     image: eventImg.story,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1228,16 +1251,20 @@ export const eventsDet = [
     name: 'Web Development',
     image: eventImg.web,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1249,16 +1276,20 @@ export const eventsDet = [
     name: 'Mat Lab',
     image: eventImg.matlab,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"],
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1270,16 +1301,20 @@ export const eventsDet = [
     name: 'Ethical Hacking',
     image: eventImg.ethical,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1289,18 +1324,22 @@ export const eventsDet = [
   {
     id: 'arvr',
     name: 'AR/VR Technology',
-    image: eventImg.newspaper,
+    image: eventImg.arvr,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1312,16 +1351,20 @@ export const eventsDet = [
     name: 'Mobile App Development',
     image: eventImg.mobile,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 
@@ -1333,16 +1376,20 @@ export const eventsDet = [
     name: 'Cyber Security',
     image: eventImg.cyber,
     type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        "name": ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
-        "info": "bitvprayukti@bitsathy.ac.in"
+        name:{
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "If you are eager to expand your skills and showcase your creativity in a hands-on environment, then this workshop is perfect for you. Dive into the world of technology and unlock your potential as you explore, create, and innovate."
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
     ,
   },
 

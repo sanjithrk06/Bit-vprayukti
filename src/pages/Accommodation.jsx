@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../layouts/NavBar/Navbar';
 import { useNavigate } from 'react-router-dom';
 
 const Accommodation = () => {
@@ -47,7 +46,10 @@ const Accommodation = () => {
                 className="ml-0 md:ml-7 mt-5 md:mt-0 rounded-lg bg-blend-overlay"
               />
             </div>
-            <div className="w-full lg:mx-20">
+            <div className=" text-accent text-3xl my-10 font-semibold text-center">
+              Accommodation details will be updated soon...
+            </div>
+            {/* <div className="w-full lg:mx-20">
               <ul className=' mx-6 my-4 sm:mx-20 list-disc leading-9 font-[300] text-dimWhite'>
               <li>
                 Accomodation is provided for all the participants for both the
@@ -69,7 +71,7 @@ const Accommodation = () => {
               </li>
               <li>Kindly carry your college identification card for proof.</li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>

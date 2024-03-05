@@ -34,7 +34,7 @@ const Committee = () => {
             <span id='btn-txt' class="font-semibold mr-2 text-left flex-auto">Go Back</span>
             <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="fill-current opacity-75 h-4 w-4"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"></path></svg>
           </button>
-          <div 
+          {/* <div 
             data-aos="fade-up" data-aos-offset="10"
             data-aos-once="true"  data-aos-delay="0" 
             className="committee items-center relative pt-10"
@@ -72,7 +72,7 @@ const Committee = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
           <br/>
           <div 
             data-aos="fade-up" data-aos-offset="10"
@@ -80,7 +80,7 @@ const Committee = () => {
             className="committee relative"
           >
             <h5 className="text-3xl font-medium uppercase text-accent mt-16">
-              PROGRAM COMMITTEE
+              EVENT COMMITTEE
             </h5>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5 gap-y-10 mt-8">
               {/* Faculty coordinators  */}
@@ -127,35 +127,39 @@ const Committee = () => {
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE <br />
-                    tharunkumaran.ec21@bitsathy.ac.in
+                    {/* tharunkumaran.ec21@bitsathy.ac.in<br/> */}
+                    9688515799
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    SREE POORVISHAA M
+                    SREEPOORVISHAA M
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE <br />
-                    sreepoorvishaa.ec21@bitsathy.ac.in
+                    {/* sreepoorvishaa.ec21@bitsathy.ac.in<br/> */}
+                    9345899487
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    RAJA PANDI P
+                    RAJAPANDI P
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE
                     <br />
-                    rajapandi.ec21@bitsathy.ac.in
+                    {/* prajapandi.ec21@bitsathy.ac.in<br/> */}
+                    8778212687
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    SIVA SANGEETHA K
+                    SIVASANGEETHA K
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE <br />
-                    sivasangeetha.ec21@bitsathy.ac.in
+                    {/* sivasangeetha.ec21@bitsathy.ac.in<br/> */}
+                    9360751971
                   </p>
                 </div>
               </div>

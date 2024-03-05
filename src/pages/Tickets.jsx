@@ -17,7 +17,7 @@ const Tickets = () => {
   });
 
   setInterval(() => {
-    const eventDate = new Date('Mar 5, 2024 00:00:00').getTime();
+    const eventDate = new Date('Mar 10, 2024 00:00:00').getTime();
     const now = new Date().getTime();
     const gap = eventDate - now;
 
