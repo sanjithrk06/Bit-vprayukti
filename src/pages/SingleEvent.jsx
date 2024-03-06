@@ -209,7 +209,7 @@ const SingleEvent = () => {
                       >
                         Contact
                       </h2>
-                      <br/>
+                      {/* <br/>
                       <h2
                         className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
                       >
@@ -217,12 +217,7 @@ const SingleEvent = () => {
                       </h2>
                       <li className="text-dimWhite para text-lg my-2 tracking-wide text-justify">
                         <a href={`mailto:${event.contact.info}`} className=' text-dimWhite hover:text-accent'>{event.contact.info}</a>
-                      </li>
-                      <h2
-                        className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
-                      >
-                        Student Co-ordinators
-                      </h2>
+                      </li> */}
                       {event.contact.name.student?.map((value, indx) => (
                         <li
                           key={indx}
@@ -363,7 +358,7 @@ const SingleEvent = () => {
                       >
                         Contact
                       </h2>
-                      <br/>
+                      {/* <br/>
                       <h2
                         className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
                       >
@@ -371,7 +366,7 @@ const SingleEvent = () => {
                       </h2>
                       <li className="text-dimWhite para text-lg my-2 tracking-wide text-justify">
                         <a href={`mailto:${event.contact.info}`} className=' text-dimWhite hover:text-accent'>{event.contact.info}</a>
-                      </li>
+                      </li> */}
                       {/* <h2
                         className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
                       >
@@ -385,11 +380,6 @@ const SingleEvent = () => {
                           {value}
                         </li>
                       ))} */}
-                      <h2
-                        className="font-normal text-lg tracking-wider mt-2 text-accent inline-block pt-2"
-                      >
-                        Student Co-ordinators
-                      </h2>
                       {event.contact.name.student?.map((value, indx) => (
                         <li
                           key={indx}
