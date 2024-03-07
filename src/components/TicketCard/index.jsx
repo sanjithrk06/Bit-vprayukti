@@ -1,18 +1,19 @@
 import React from 'react';
 import { FaArrowRight, FaCheck } from 'react-icons/fa';
-import { Link } from 'react-router-dom';
-const TicketCard = ({ id, title, discount, amount, offers, details }) => {
+
+
+const TicketCard = ({ id, title, discount, amount, offers, details, size, form }) => {
   return (
     <div
       data-aos="fade-up"
-      className="single-ticket-pricing-table relative bg-white px-10 pb-10 rounded-xl duration-500 mb-12 text-center active "
+      className="single-ticket-pricing-table relative bg-accent  bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-[0.1] border-accent border-2 rounded-3xl px-10 pb-10 duration-500 mb-12 text-center active "
     >
       {offers !== 'null' && (
         <div className="ribbon">
           <span>{offers} OFF</span>
         </div>
       )}
-      <h6 className="ticket-plan bg-accent px-6 py-3 inline-block tracking-wide uppercase text-white rounded-b-md mb-6 leading-[1]">
+      <h6 className="ticket-plan bg-[#00f7ff79] px-6 py-3 inline-block tracking-wide uppercase text-white font-bold text-xl rounded-b-md mb-6 leading-[1]">
         {title}
       </h6>
 
@@ -25,10 +26,10 @@ const TicketCard = ({ id, title, discount, amount, offers, details }) => {
           height="100px"
         />
       </div>
-      <h2 className="ticket-price text-6xl text-primary font-semibold tracking-wide leading-[1] my-5">
+      <h2 className="ticket-price text-6xl text-white font-semibold tracking-wide leading-[1] my-5">
         {offers !== 'null' ? (
           <>
-            <strike className="text-3xl mr-5 text-black">₹{amount}</strike>
+            <strike className="text-3xl mr-5 text-white">₹{amount}</strike>
             <span>₹</span>
             {discount}
           </>
@@ -40,16 +41,24 @@ const TicketCard = ({ id, title, discount, amount, offers, details }) => {
         )}
       </h2>
 
+      <h2 className="ticket-price text-lg text-white font-semibold tracking-wide leading-[1] my-5">
+        Team Size : <span className=' text-white' >{size}</span>
+      </h2>
+
+
       <div className="ticket-pricing-table-details">
         {details?.map((val, idx) => (
-          <p key={idx} className="text-[#5d5e8d] mb-2">
-            <FaCheck className="inline-block mr-2 text-green-600" /> {val}
+          <p key={idx} className="text-dimWhite mb-2">
+            <FaCheck className="inline-block mr-2 text-accent" /> {val}
           </p>
         ))}
       </div>
-      <Link to={`/tickets/${id}`} className="btn confer-btn w-4/5 mt-8">
-        Get Tickets <FaArrowRight className="inline-block ml-2" />
-      </Link>
+      {form?(<a href={form} rel="noreferrer" target='_blank' className="btn confer-btn w-4/5 mt-8">
+        Get Ticket <FaArrowRight className="inline-block ml-2" />
+      </a>):(
+        <div className='ticket-price text-2xl text-white font-semibold tracking-wide leading-[1] my-10'>Opens soon...</div>
+      )
+      }
     </div>
   );
 };

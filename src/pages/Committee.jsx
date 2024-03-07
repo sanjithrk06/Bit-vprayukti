@@ -123,42 +123,42 @@ const Committee = () => {
                 </h5>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    THARUN KUMARAN K E
+                    Mr. THARUN KUMARAN K E
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE <br />
-                    {/* tharunkumaran.ec21@bitsathy.ac.in<br/> */}
+                    tharunkumaran.ec21@bitsathy.ac.in<br/>
                     9688515799
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    SREEPOORVISHAA M
+                    Ms. SREEPOORVISHAA M
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE <br />
-                    {/* sreepoorvishaa.ec21@bitsathy.ac.in<br/> */}
+                    sreepoorvishaa.ec21@bitsathy.ac.in<br/>
                     9345899487
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    RAJAPANDI P
+                    Mr. RAJAPANDI P
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE
                     <br />
-                    {/* prajapandi.ec21@bitsathy.ac.in<br/> */}
+                    prajapandi.ec21@bitsathy.ac.in<br/>
                     8778212687
                   </p>
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    SIVASANGEETHA K
+                    Ms. SIVASANGEETHA K
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-ECE <br />
-                    {/* sivasangeetha.ec21@bitsathy.ac.in<br/> */}
+                    sivasangeetha.ec21@bitsathy.ac.in<br/>
                     9360751971
                   </p>
                 </div>

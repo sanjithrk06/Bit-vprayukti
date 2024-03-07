@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Dashboard from './pages/Dashboard';
 import SingleEvent from './pages/SingleEvent';
 import Tickets from './pages/Tickets';
+import Tickets1 from './pages/Tickets1';
 import Working from './pages/Working';
 import Accommodation from './pages/Accommodation';
 import Loader from './components/loader';
@@ -70,6 +71,7 @@ const App = () => {
         <Route path="/events/:eventId" element={<SingleEvent />} />
         <Route path="/committee" element={<Committee />} />
         <Route path="/tickets" element={<Tickets />} />
+        <Route path="/tickets1" element={<Tickets1 />} />
         {/* <Route path='/register' element={<Register />} /> */}
         <Route path="/accommodation" element={<Accommodation />} />
         <Route path="*" element={<Working />} />

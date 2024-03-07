@@ -55,7 +55,7 @@ const ContactSection = () => {
             Contact Us
         </h3>
         <div className="flex flex-col gap-20 sm:flex-row justify-between mt-20">
-            <div class="basis-full flex flex-row gap-10 flex-wrap justify-evenly md:basis-1/3 ">
+            <div class="basis-full flex flex-row gap-10 flex-wrap justify-evenly md:basis-3/3 ">
                 <div>
                     <span class="inline-block p-3 text-accent rounded-full bg-blue-100/80 dark:bg-gray-800">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
@@ -93,7 +93,7 @@ const ContactSection = () => {
                     <a class="mt-2 text-lg font-semibold cursor-pointer text-accent" rel="noreferrer" target='_blank' href="tel:6381137437">6381137437</a>
                 </div>
             </div>
-          <div className="basis-full md:basis-2/3 md:p-4 sm:mt-10 sm:p-10">
+          {/* <div className="basis-full md:basis-2/3 md:p-4 sm:mt-10 sm:p-10">
             <div className="contact-container  bg-primary  bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-[0.5] rounded-2xl p-4">
               <div className="form text-right">
                 <div className="flex flex-wrap mt-4">
@@ -192,7 +192,7 @@ const ContactSection = () => {
                 </button>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

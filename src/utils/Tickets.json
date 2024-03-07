@@ -1,216 +1,261 @@
 [
   {
-    "id": "VPT20",
-    "discount": "899",
-    "offers": "25%",
-    "title": "COMBO 1",
-    "amount": 1200,
-    "eventId": "20",
-    "category": "upload",
-    "details": [
-      "1-4 Members",
-      "Project Presentation",
-      "Tech-It-Out",
-      "Shoot and Broadcast (or)( Connexion, MOCK CID, Action Speaks (ANY 2))"
-    ]
-  },
-  {
-    "id": "VPT21",
-    "discount": "1199",
-    "offers": "25%",
-    "title": "COMBO 2",
-    "amount": 1550,
-    "eventId": "21",
-    "category": "upload",
-    "details": [
-      "1-4 Members",
-      "Paper Presentation",
-      "Best Engineer",
-      "Theme Photography, Non-Technical quiz, Series Quiz (ANY 2)"
-    ]
-  },
-  {
-    "id": "VPT22",
-    "discount": "1111",
-    "offers": "25%",
-    "title": "COMBO 3",
-    "amount": 1500,
-    "eventId": "22",
-    "category": "team",
-    "details": [
-      "1-5 Members",
-      "Line follower",
-      "Robo Soccer",
-      "Theme Photography, Non-Technical quiz, Series Quiz (ANY 2)"
-    ]
-  },
-  {
     "id": "VPT01",
+    "eventId": "01",
+    "title": "PAPER PRESENTATION",
+    "size":"1-4",
+    "amount": 850,
+    "form": "https://forms.gle/fv75hnVxdjPXFraV9",
     "discount": "0%",
     "offers": "null",
-    "title": "PAPER PRESENTATION",
-    "amount": 750,
-    "eventId": "01",
     "category": "upload",
     "details": [
       "Free Publication",
-      "Free WiFi Access",
-      "Free Accommodation",
+      "WiFi Access",
       "Coffee - Break"
     ]
   },
   {
-    "category": "upload",
     "id": "VPT02",
     "eventId": "02",
-    "amount": 600,
-    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
-    "discount": "0%",
     "title": "PROJECT PRESENTATION",
+    "size":"1-4",
+    "amount": 600,
+    "form": "https://forms.gle/fv75hnVxdjPXFraV9",
+    "category": "upload",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "discount": "0%",
     "offers": "null"
   },
   {
+    "id": "VPT03",
     "eventId": "03",
     "title": "AI/ML HACKATHON",
-    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
+    "size":"3-5",
+    "amount": 500,
+    "form": "https://forms.gle/ys8uLTxcUmmWJ3K8A",
+    "details": ["WiFi Access", "Coffee - Break"],
     "offers": "null",
     "category": "upload",
-    "discount": "0%",
-    "amount": 500,
-    "id": "VPT03"
+    "discount": "0%"
   },
   {
-    "category": "upload",
-    "discount": "0%",
-    "amount": 500,
-    "offers": "null",
+    "id": "VPT04",
     "eventId": "04",
     "title": "IoT HACKATHON",
-    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
-    "id": "VPT04"
+    "size":"3-5",
+    "amount": 500,
+    "form": "https://forms.gle/ys8uLTxcUmmWJ3K8A",
+    "category": "upload",
+    "discount": "0%",
+    "offers": "null",
+    "details": ["WiFi Access", "Coffee - Break"]
   },
   {
-    "offers": "null",
     "id": "VPT05",
-    "discount": "0%",
-    "amount": 400,
-    "category": "team",
-    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
     "eventId": "05",
-    "title": "LINE FOLLOWER"
-  },
-  {
+    "title": "ENTREPRENEURSHIP",
+    "size":"1-3",
+    "amount": 450,
+    "form": "https://forms.gle/6bYCMZCtV41fXjmE6",
     "offers": "null",
-    "amount": 600,
-    "eventId": "06",
     "discount": "0%",
     "category": "team",
-    "title": "ROBO SOCCER",
-    "details": ["Free WiFi Access", "Free Accommodation", "Coffee - Break"],
-    "id": "VPT06"
+    "details": ["WiFi Access", "Coffee - Break"]
   },
   {
-    "amount": 100,
-    "discount": "0%",
-    "id": "VPT07",
-    "details": ["Free WiFi Access", "Coffee - Break"],
+    "id": "VPT06",
+    "eventId": "06",
+    "title": "CIRUIT DEBUGGING",
+    "size":"1-2",
+    "amount": 400,
+    "form": "https://forms.gle/1rRG6C6pTvd1ghoq8",
     "offers": "null",
-    "category": "individual",
-    "title": "BEST ENGINEER",
-    "eventId": "07"
+    "discount": "0%",
+    "category": "team",
+    "details": ["WiFi Access", "Coffee - Break"]
+  },
+  {
+    "id": "VPT07",
+    "eventId": "07",
+    "title": "LINE FOLLOWER",
+    "size":"1-5",
+    "amount": 500,
+    "form": "https://forms.gle/AxfxWGsN4FLhCvcdA",
+    "offers": "null",
+    "discount": "0%",
+    "category": "team",
+    "details": ["WiFi Access", "Coffee - Break"]
   },
   {
     "id": "VPT08",
-    "amount": 100,
-    "details": ["Free WiFi Access", "Coffee - Break"],
-    "offers": "null",
-    "discount": "0%",
     "eventId": "08",
-    "title": "TECH-IT-OUT",
-    "category": "individual"
-  },
-  {
+    "title": "MAZE SOLVER",
+    "size":"1-5",
+    "amount": 500,
+    "form": "https://forms.gle/AxfxWGsN4FLhCvcdA",
     "discount": "0%",
-    "title": "SHOOT AND BROADCAST",
-    "category": "team",
-    "id": "VPT11",
-    "amount": 200,
+    "details": ["WiFi Access", "Coffee - Break"],
     "offers": "null",
-    "details": ["Free WiFi Access", "Coffee - Break"],
-    "eventId": "11"
-  },
-  {
-    "title": "MOCK CID",
-    "id": "VPT12",
-    "offers": "null",
-    "amount": 100,
-    "discount": "0%",
-    "eventId": "12",
-    "details": ["Free WiFi Access", "Coffee - Break"],
     "category": "team"
   },
   {
-    "id": "VPT13",
+    "id": "VPT09",
+    "eventId": "09",
+    "title": "ROBO SOCCER",
+    "size":"1-5",
+    "amount": 500,
+    "form": "https://forms.gle/AxfxWGsN4FLhCvcdA",
     "offers": "null",
+    "discount": "0%",
+    "category": "team",
+    "details": ["WiFi Access", "Coffee - Break"]
+  },
+  {
+    "id": "VPT10",
+    "eventId": "10",
+    "title": "TECH-IT-OUT",
+    "size":"1-2",
+    "amount": 400,
+    "form": "https://forms.gle/1rRG6C6pTvd1ghoq8",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "category": "team"
+  },
+  
+  
+  
+  
+  
+  {
+    "id": "VPT11",
+    "eventId": "11",
+    "title": "QUIZ",
+    "size": "Individual",
     "amount": 100,
-    "details": ["Free WiFi Access", "Coffee - Break"],
-    "title": "CONNEXION",
+    "form": "https://forms.gle/fKmykE81dAtVRa7CA",
+    "discount": "0%",
+    "category": "individual",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "offers": "null"
+  },
+  {
+    "id": "VPT12",
+    "eventId": "12",
+    "title": "THEME PHOTOGRAPHY",
+    "size": "Individual",
+    "amount": 100,
+    "form": "https://forms.gle/fKmykE81dAtVRa7CA",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "category": "individual"
+  },
+  {
+    "id": "VPT13",
     "eventId": "13",
+    "title": "BRIDGE MAKING",
+    "size":"1-3",
+    "amount": 150,
+    "form": "https://forms.gle/jHA7bgKDvN5WgWL97",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "offers": "null",
     "discount": "0%",
     "category": "team"
   },
   {
     "id": "VPT14",
-    "discount": "0%",
-    "offers": "null",
-    "details": ["Free WiFi Access", "Coffee - Break"],
     "eventId": "14",
-    "title": "ACTION SPEAKS",
-    "amount": 100,
+    "title": "RUBBIK's CUBE",
+    "size": "Individual",
+    "amount": 150,
+    "form": "https://forms.gle/GKu5ewAVYaoRU3fR9",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
     "category": "team"
   },
   {
-    "details": ["Free WiFi Access", "Coffee - Break"],
-    "offers": "null",
-    "discount": "0%",
     "id": "VPT15",
-    "title": "THEME PHOTOGRAPHY",
-    "amount": 50,
-    "category": "individual",
-    "eventId": "15"
+    "eventId": "15",
+    "title": "PUZZLE",
+    "size": "Individual",
+    "amount": 100,
+    "details": ["WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "category": "team"
   },
   {
-    "title": "NON-TECHNICAL QUIZ",
-    "discount": "0%",
-    "category": "individual",
-    "details": ["Free WiFi Access", "Coffee - Break"],
-    "offers": "null",
+    "id": "VPT16",
     "eventId": "16",
-    "amount": 50,
-    "id": "VPT16"
+    "title": "MOCK CID",
+    "size":"2",
+    "amount": 100,
+    "form": "https://forms.gle/XUaQSytWjft2YQRd8",
+    "offers": "null",
+    "discount": "0%",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "category": "team"
   },
   {
-    "eventId": "17",
     "id": "VPT17",
+    "eventId": "17",
+    "title": "CONNECTIONS",
+    "size":"2",
+    "amount": 100,
+    "form": "https://forms.gle/XUaQSytWjft2YQRd8",
     "offers": "null",
-    "category": "individual",
-    "amount": 50,
-    "details": ["Free WiFi Access", "Coffee - Break"],
+    "details": ["WiFi Access", "Coffee - Break"],
     "discount": "0%",
-    "title": "SERIES QUIZ"
+    "category": "team"
   },
   {
-    "eventId": "25",
-    "id": "VPT25",
+    "id": "VPT18",
+    "eventId": "18",
+    "title": "Da Vinci's NEWSPAPER",
+    "size": "Individual",
+    "amount": 100,
+    "form": "https://forms.gle/fKmykE81dAtVRa7CA",
     "offers": "null",
-    "category": "individual",
-    "amount": 300,
-    "details": [
-      "Access for Any 3 Workshops",
-      "Free WiFi Access",
-      "Coffee - Break"
-    ],
+    "details": ["WiFi Access", "Coffee - Break"],
     "discount": "0%",
-    "title": "WORKSHOPS"
+    "category": "team"
+  },
+  {
+    "id": "VPT19",
+    "eventId": "19",
+    "title": "ACTION SPEAKS",
+    "size":"2",
+    "amount": 100,
+    "form": "https://forms.gle/XUaQSytWjft2YQRd8",
+    "discount": "0%",
+    "offers": "null",
+    "details": ["WiFi Access", "Coffee - Break"],
+    "category": "team"
+  },
+  {
+    "id": "VPT20",
+    "eventId": "20",
+    "title": "SHOOT AND BROADCAST",
+    "size":"2-4",
+    "amount": 200,
+    "form": "https://forms.gle/cWVAb3SnMovQz8659",
+    "discount": "0%",
+    "category": "team",
+    "offers": "null",
+    "details": ["WiFi Access", "Coffee - Break"]
+  },
+  {
+    "id": "VPT21",
+    "eventId": "21",
+    "title": "WORKSHOP",
+    "size": "Individual",
+    "amount": 200,
+    "details": ["Any one Workshop", "WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "category": "team"
   }
 ]
