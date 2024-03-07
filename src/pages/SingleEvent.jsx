@@ -223,7 +223,7 @@ const SingleEvent = () => {
                           key={indx}
                           className="text-dimWhite font-thin point text-lg my-4 tracking-normal text-justify"
                         >
-                          {value}
+                          Mr. {value}
                         </li>
                       ))}
                       
@@ -385,7 +385,7 @@ const SingleEvent = () => {
                           key={indx}
                           className="text-dimWhite font-thin point text-lg my-4 tracking-normal text-justify"
                         >
-                          {value}
+                          Mr. {value}
                         </li>
                       ))}
                       {/* <li
