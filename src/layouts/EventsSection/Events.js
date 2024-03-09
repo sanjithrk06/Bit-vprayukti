@@ -40,7 +40,7 @@ export const eventsDet = [
     contact: {
       name: {
         faculty: ["Dr. POONGODI C", "Dr. SAMPOORNAM K P", "Prof. PUSHPAVALLI M","Prof. DEEPA D", "Prof. PERARASI T"], 
-        student: ["SOUNDARRAJAN K R - 9790325055", "SRI PRASANTH V S - 8903589345"]
+        student: ["SOUNDARRAJAN K R - 9790325055", "SRI PRASATH V S - 8903589345"]
       },
       info: "bitvprayukti@bitsathy.ac.in",
     },
@@ -76,7 +76,7 @@ export const eventsDet = [
     contact: {
       name: {
         faculty: ["Prof. ELANGO S", "Prof. DANIEL RAJ A", "Prof. SAJAN P PHILIP"], 
-        student: ["VIMAL RAM K C - 9677791525", "BHARAT S - 8903589345"]
+        student: ["VIMAL RAM K C - 9677791525", "BHARATH S - 6369815594"]
       },
       info: "bitvprayukti@bitsathy.ac.in",
     },
