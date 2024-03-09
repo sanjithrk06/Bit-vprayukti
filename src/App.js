@@ -10,7 +10,6 @@ import Tickets1 from './pages/Tickets1';
 import Working from './pages/Working';
 import Accommodation from './pages/Accommodation';
 import Loader from './components/loader';
-import Form from './pages/GetTicket';
 
 const App = () => {
   const [userInfo, setUserInfo] = useState({
@@ -76,7 +75,6 @@ const App = () => {
         {/* <Route path='/register' element={<Register />} /> */}
         <Route path="/accommodation" element={<Accommodation />} />
         <Route path="*" element={<Working />} />
-        <Route path='/forms' element={<Form />} />
       </Routes>
     </BrowserRouter>
   );
