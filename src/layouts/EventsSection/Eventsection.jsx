@@ -40,10 +40,10 @@ const EventsSection = () => {
              Events
             </h3>
 
-            <h3 data-aos="fade-up"  data-aos-offset="10"
+            {/* <h3 data-aos="fade-up"  data-aos-offset="10"
           data-aos-once="true" data-aos-delay="0" className="text-md sm:text-md text-white uppercase tracking-wider px-16 py-2 leading-10 sm:px-0 mb-14 font-semibold">
               Event Rulebook
-            </h3>
+            </h3> */}
 
             <div
               data-aos="fade-up"  data-aos-offset="10"

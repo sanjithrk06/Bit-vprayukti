@@ -252,7 +252,7 @@ export const eventsDet = [
     contact: {
       name: {
         faculty: ["Prof. RAM KUMAR R", "Prof. SATHIYAMURTHI P"], 
-        student: ["SHYAM N - 6383592816", "PRABHUKUMAR - 8825422071"]
+        student: ["SHYAM N - 6383592816", "SUHAS E - 9345475764"]
       },
       info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -262,7 +262,7 @@ export const eventsDet = [
   /// 8. Maze Solver dup
   {
     id: 'mazeSolver',
-    name: 'Maze Solver',
+    name: 'Maze Explorer',
     image: eventImg.maze,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
@@ -390,7 +390,7 @@ export const eventsDet = [
       info: "bitvprayukti@bitsathy.ac.in",
       name: {
         faculty: ["Prof. Saranya N", "Prof. Dhanalakshmi S"], 
-        student: ["VINETH R - 6382129544", "DIKSHITH S - 7418028834"]
+        student: ["VINETH R - 6382129544", "MUGUNTHAN SRI HARI D - 6383709687"]
       }
     },
   },
@@ -456,7 +456,7 @@ export const eventsDet = [
   contact: {
     name: {
       faculty: ["Prof. Krishnaraj R"], 
-      student: ["MANOJ T A - 9003811835", "SUHASH E - 9345475764"]
+      student: ["MANOJ T A - 9003811835", "RANJITH RAGAVENDAR J - 8220311800"]
     },
     info: "bitvprayukti@bitsathy.ac.in"
   },
