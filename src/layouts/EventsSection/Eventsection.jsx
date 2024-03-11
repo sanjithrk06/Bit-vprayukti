@@ -35,7 +35,7 @@ const EventsSection = () => {
             <h3
               data-aos="fade-up"  data-aos-offset="10"
           data-aos-once="true" data-aos-delay="0"
-              className=" text-4xl sm:text-6xl text-white uppercase tracking-wider px-16 leading-10 sm:px-0  font-semibold"
+              className=" text-4xl sm:text-6xl text-white uppercase tracking-wider px-16 leading-10 sm:px-0 mb-14 font-semibold"
             >
              Events
             </h3>
@@ -93,21 +93,13 @@ const EventsSection = () => {
               </ul>
 
             </div>
-
-          {tab === 'workshops' ? (
-            <div className=' font-semibold text-accent sm:text-3xl dxs:text-xl text-center my-20'>Workshop Topics will be updated soon...</div>
-
-          ): (
-            <>
-              <div className="w-full relative grid dxs:grid-cols-2 xs:grid-cols-2 md:grid-cols-4 gap-x-5 mt-10">
-                {events
-                  .filter((event) => event.type === tab)
-                  .map((event) => (
-                    <Event key={event.id} {...event} className=" hover:scale-50" />
-                  ))}
-              </div>
-            </>
-          )}
+            <div className="w-full relative grid dxs:grid-cols-2 xs:grid-cols-2 md:grid-cols-4 gap-x-5 mt-10">
+              {events
+                .filter((event) => event.type === tab)
+                .map((event) => (
+                  <Event key={event.id} {...event} className=" hover:scale-50" />
+                ))}
+            </div>
         <div className="flex justify-center items-center">
           
         </div>

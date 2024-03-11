@@ -1,5 +1,84 @@
 [
   {
+    "id": "VPT22",
+    "eventId": "22",
+    "title": "COMBO 1",
+    "size": "1-4",
+    "amount": 1250,
+    "form": "https://forms.gle/2N71oZ88Z6ywAiDaA",
+    "discount": "999",
+    "offers": "20%",
+    "category": "upload",
+    "details": [
+      "Paper Presentation",
+      "Any one Non-Technical Event (Execpt Bridge Making and Rubic's Cube)",
+      "WiFi Access",
+      "Coffee - Break"
+    ]
+  },
+  {
+    "id": "VPT23",
+    "eventId": "23",
+    "title": "COMBO 2",
+    "size": "1-4",
+    "amount": 1000,
+    "form": "https://forms.gle/qACBHmYhnhE176rr7",
+    "discount": "699",
+    "offers": "30%",
+    "category": "upload",
+    "details": [
+      "Project Presentation",
+      "Any one Non-Technical Event (Execpt Bridge Making and Rubic's Cube)",
+      "WiFi Access",
+      "Coffee - Break"
+    ]
+  },
+  {
+    "id": "VPT24",
+    "eventId": "24",
+    "title": "COMBO 3",
+    "size":"1-5",
+    "amount": 1000,
+    "form": "https://forms.gle/NQQQQqztAvKGnHDx8",
+    "discount": "799",
+    "offers": "20%",
+    "category": "team",
+    "details": [
+      "Line follower",
+      "Maze Explorer",
+      "WiFi Access",
+      "Coffee - Break"
+    ]
+  },
+  {
+    "id": "VPT25",
+    "eventId": "25",
+    "title": "COMBO 4",
+    "size":"1-4",
+    "amount": 600,
+    "form": "https://forms.gle/CG5YRpt8SGMksWBt5",
+    "discount": "499",
+    "offers": "25%",
+    "category": "team",
+    "details": [
+      "Any Three Workshops",
+      "WiFi Access",
+      "Coffee - Break"
+    ]
+  },
+  {
+    "id": "VPT21",
+    "eventId": "21",
+    "title": "WORKSHOP",
+    "size": "Individual",
+    "amount": 200,
+    "form": "https://forms.gle/DKeCKFJH7pBQQ6xSA",
+    "details": ["Any one Workshop", "WiFi Access", "Coffee - Break"],
+    "offers": "null",
+    "discount": "0%",
+    "category": "team"
+  },
+  {
     "id": "VPT01",
     "eventId": "01",
     "title": "PAPER PRESENTATION",
@@ -246,16 +325,5 @@
     "category": "team",
     "offers": "null",
     "details": ["WiFi Access", "Coffee - Break"]
-  },
-  {
-    "id": "VPT21",
-    "eventId": "21",
-    "title": "WORKSHOP",
-    "size": "Individual",
-    "amount": 200,
-    "details": ["Any one Workshop", "WiFi Access", "Coffee - Break"],
-    "offers": "null",
-    "discount": "0%",
-    "category": "team"
   }
 ]

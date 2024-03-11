@@ -36,4 +36,8 @@ export const eventImg = {
   arvr: require('../../assets/images/vpraAssets/Workshops/arvr.png'),
   mobile: require('../../assets/images/vpraAssets/Workshops/mobile.png'),
   cyber: require('../../assets/images/vpraAssets/Workshops/cyber.png'),
+  shading: require('../../assets/images/vpraAssets/shading.jpg'),
+  drone: require('../../assets/images/vpraAssets/drone.jpg'),
+  sql: require('../../assets/images/vpraAssets/sql.jpg'),
+  fashion: require('../../assets/images/vpraAssets/fashion.jpg')
 };

@@ -67,12 +67,12 @@ const Tickets1 = () => {
           <h3 className="text-4xl my-2 tracking-wider font-medium uppercase text-white">
             Ticket Pricing
           </h3>
-          <div className="timer">
+          {/* <div className="timer">
             <h4 className="text-xl mt-4 text-red-600 uppercase font-medium">
               Registration Closes Soon
             </h4>
             <h5 className="text-2xl mt-4 text-red-700">{`${timer.days} D : ${timer.hours} H : ${timer.minutes} M : ${timer.seconds} S`}</h5>
-          </div>
+          </div> */}
           <div 
             data-aos="fade-up"  data-aos-offset="10"
             data-aos-once="true" data-aos-delay="0" 

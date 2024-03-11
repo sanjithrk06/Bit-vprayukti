@@ -306,6 +306,7 @@ html {
   transform: rotate(-45deg);
   width: 200px;
   background: var(--primary-color);
+  border: 2px solid var(--accent-color);
   padding: 10px 0;
   color: #fff;
   text-align: center;

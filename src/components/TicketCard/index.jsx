@@ -5,7 +5,8 @@ import { FaArrowRight, FaCheck } from 'react-icons/fa';
 const TicketCard = ({ id, title, discount, amount, offers, details, size, form }) => {
   return (
     <div
-      data-aos="fade-up"
+      data-aos="fade-up"  data-aos-offset="10"
+      data-aos-once="true" data-aos-delay="0"
       className="single-ticket-pricing-table relative bg-accent  bg-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-[0.1] border-accent border-2 rounded-3xl px-10 pb-10 duration-500 mb-12 text-center active "
     >
       {offers !== 'null' && (
@@ -56,7 +57,7 @@ const TicketCard = ({ id, title, discount, amount, offers, details, size, form }
       {form?(<a href={form} rel="noreferrer" target='_blank' className="btn confer-btn w-4/5 mt-8">
         Get Ticket <FaArrowRight className="inline-block ml-2" />
       </a>):(
-        <div className='ticket-price text-2xl text-white font-semibold tracking-wide leading-[1] my-10'>Opens soon...</div>
+        <div className='ticket-price text-2xl text-accent font-semibold tracking-wide leading-[1] my-10'>Opens soon...</div>
       )
       }
     </div>

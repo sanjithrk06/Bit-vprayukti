@@ -12,7 +12,7 @@ export const eventsDet = [
     image: eventImg.paper,
     form: 'https://forms.gle/fv75hnVxdjPXFraV9',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1p21xHMuMYLvOSC6xkeMIZgv6V_8dPhWf/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1F9Hasal64uVljgFobMn5NA7osaWjR5Xq/view?usp=drive_link",
     ppt: "https://docs.google.com/document/d/1GaZ9PEfOtwUMrjNcyRD-gpnJQncWnOhifx1f2PKwS2w/edit?usp=sharing",
     domain: "Open topics related to engineering.",
     tag: " Prizes worth ₹5000",
@@ -54,7 +54,7 @@ export const eventsDet = [
     image: eventImg.project,
     form: 'https://forms.gle/fv75hnVxdjPXFraV9',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1c6LSkDsX9_wOgmrsVF0_JawhB4KQgQS9/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/16CHzkRueCylv-r7PyEMjtTzI8XRHrowF/view?usp=drive_link",
     domain: "Healthcare and Medicine, Smart Transportation and Automotives, Smart Agriculture, Smart Education, Open Innovation",
     tag: " Prizes worth ₹5000",
     fee: "RS 600(PER TEAM)",
@@ -89,7 +89,7 @@ export const eventsDet = [
     image: eventImg.aiml,
     form: 'https://forms.gle/ys8uLTxcUmmWJ3K8A',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1IyqdJkN1c5JvkTMJsWE2GNVJxJlz6Fl2/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1MYHBSt25aw2CHB_r4eLqfUYTVmShDcwZ/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -102,7 +102,7 @@ export const eventsDet = [
       "Register a team for the specified competition online on the official BIT V-PRAYUKTI’24 website only.",
       "Team details must be confirmed prior to the Stage-I shortlisting process, no further changes in the team details are encouraged."
     ],
-    problem: "",
+    problem: "https://docs.google.com/document/d/1jU348guUFYzHDDkh1o0zrh0G9cFuMBarG_FgVejEXH0/edit",
     abstract: "https://docs.google.com/presentation/d/1g2GppBAtUddcDa6GeSmbu-bkyMFQkVdx/edit?usp=drive_link",
     info: [
       "AI/ML Hackathon is a collaborative event where tech enthusiasts, data scientists, and developers come together to engage in intensive, time-bound programming sessions. Focused on artificial intelligence and machine learning, participants work on real-world challenges, brainstorming and implementing innovative solutions within a set timeframe."
@@ -127,7 +127,7 @@ export const eventsDet = [
     image: eventImg.iot,
     form: 'https://forms.gle/ys8uLTxcUmmWJ3K8A',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/17vyECyV0b5VZJQbnag2SpqLZ5z2DcYNj/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1MJNppFlYdyFKz9TcUKaQ1dJQNkQRdgW8/view?usp=drive_link",
     tag: " Prizes worth ₹5000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -140,7 +140,7 @@ export const eventsDet = [
       "Register a team for the specified competition online on the official BIT V-PRAYUKTI’24 website only.",
       "Team details must be confirmed prior to the Stage-I shortlisting process, no further changes in the team details are encouraged."
     ],
-    problem: "",
+    problem: "https://docs.google.com/document/d/1jQAo3DGJODatrDPosqL7LD_-4wpdBzMk_UXrp6qhDZE/edit",
     abstract: "https://docs.google.com/presentation/d/18oB5oKRCYJaJmiDB-er65PmkpStLgeoU/edit?usp=drive_link",
     info: [
       "IoT Hackathon is an immersive event where Tech enthusiasts, developers, and engineers collaborate to create innovative solutions within the realm of the Internet of Things (IoT). Participants engage in hands-on coding and problem-solving, leveraging connected devices to address real-world challenges and push the boundaries of IoT applications."
@@ -165,7 +165,7 @@ export const eventsDet = [
     image: eventImg.entrepreneur,
     form: 'https://forms.gle/6bYCMZCtV41fXjmE6',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1tXoFYqKttBn_zGjx3KQv_FKN50PztaTk/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1QfvF_GpZo4HyozLnCdYXlonsmkE1EPiZ/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 450(PER TEAM)",
     deadline: "20 MARCH",
@@ -198,7 +198,7 @@ export const eventsDet = [
     image: eventImg.circuit,
     form: 'https://forms.gle/1rRG6C6pTvd1ghoq8',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1tc6jkwH_OfnVso-GBn7sfRtjt_f1FFkl/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1_tW813bqvhly4Xi_wyBtPG6_mRGAgtVP/view?usp=drive_link",
     domain: "Circuit Branches [ ECE, EEE, EIE]",
     tag: " Prizes worth ₹7000",
     fee: "RS 400(PER TEAM)",
@@ -233,7 +233,7 @@ export const eventsDet = [
     image: eventImg.line,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/15ODRL9VSKZn8V6nL2oXeNe3gDuJ1tIs2/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1jEunpW-POibaNqUQXJD1HCdwLLekcqd0/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -266,7 +266,7 @@ export const eventsDet = [
     image: eventImg.maze,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/138UNIkkR5xBI9ez79GCX94gn7cSzwpsh/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1BhCsqLxlp-FK7pLUXWoWOyp_JsUnjme3/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -277,7 +277,8 @@ export const eventsDet = [
       "A team can consist of a minimum of 1 and a maximum of 5 members. Any institution or group of students may form a team or individuals may also participate.",
     ],
     info: [
-      "Embark on Maze Explorer! Engineer a robot for maze mastery. Your precision and innovative touch could crown you as the genius behind the future of maze-navigating robots!"
+      "Dive into the future of robotics at Maze Explorer! Watch autonomous robots navigate unknown mazes, showcasing innovative designs dating back to the 1970s. Join this epic challenge, where creativity meets technology. ",
+      "Challenge: conquer a fixed-size maze with an unknown configuration, relying solely on onboard hardware and processing. No external input allowed – it's pure robot brilliance!"
     ],
     eligibility: [
       "Open to all students from any background with valid ID cards."
@@ -299,7 +300,7 @@ export const eventsDet = [
     image: eventImg.robo,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/1ZGB7WPX0w_W2VfWK2c5nPx5tL9l10lD9/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1sJ7ljAhrON4AoZN8hiptCKtBpmpP1qVp/view?usp=drive_link",
     tag: " Prizes worth ₹7000",
     fee: "RS 500(PER TEAM)",
     deadline: "20 MARCH",
@@ -333,7 +334,7 @@ export const eventsDet = [
     image: eventImg.techitout,
     form: 'https://forms.gle/1rRG6C6pTvd1ghoq8',
     type: 'technical',
-    rulebook: "https://drive.google.com/file/d/18-F2MtSMNdn8NbZi5zJFF7qftHvTCJS_/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1LGp1WLzXP5DGAn9ltjAMpAT5ng2JnSUQ/view?usp=drive_link",
     tag: " Prizes worth ₹1000",
     fee: "RS 400(PER TEAM)",
     deadline: "20 MARCH",
@@ -369,7 +370,7 @@ export const eventsDet = [
     image: eventImg.quiz,
     form: 'https://forms.gle/fKmykE81dAtVRa7CA',
     type: 'nonTechnical',
-    rulebook: "https://drive.google.com/file/d/1wfXdS2d07YVaLGrNG_YWf332-PaL0fo7/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1EwnkiIOPjzWz29G0vI1ddXPAXRb45zsz/view?usp=drive_link",
     tag: " Rewards & Certificates",
     fee: "RS 100(PER INDIVIDUAL)",
     deadline: "20 MARCH",
@@ -403,7 +404,7 @@ export const eventsDet = [
   image: eventImg.theme,
   form: 'https://forms.gle/fKmykE81dAtVRa7CA',
   type: 'nonTechnical',
-  rulebook: "https://drive.google.com/file/d/1o3qBiAxNTETZ1GSOieD67-3G4BmVxuaW/view?usp=drive_link",
+  rulebook: "https://drive.google.com/file/d/1AjToZMmTw9jZfA794dXiLuB114uHF9iw/view?usp=drive_link",
   tag: " Prizes worth ₹1000",
   fee: "RS 100(PER INDIVIDUAL)",
   deadline: "20 MARCH",
@@ -502,7 +503,7 @@ export const eventsDet = [
   image: eventImg.puzzle,
   form: '',
   type: "nonTechnical",
-  rulebook: "https://drive.google.com/file/d/1LlmFJiPrbK0rAyjNxiTKyODkfFvhkzoF/view?usp=drive_link",
+  rulebook: "https://drive.google.com/file/d/1Uut6BFoCqErK0DrOIEkIMEqujJhiF7p3/view?usp=drive_link",
   tag: "Rewards & Certificates",
   fee: "RS 100(PER INDIVIDUAL)",
   deadline: "20 MARCH",
@@ -535,7 +536,7 @@ export const eventsDet = [
     image: eventImg.cid,
     form: 'https://forms.gle/XUaQSytWjft2YQRd8',
     type: "nonTechnical",
-    rulebook: "https://drive.google.com/file/d/1-HSp-NQSD9WGl94FBONGXNh5DcnJEZtw/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1RAzfbKp7RcFqzeaqAokKEbvnHnjaowbM/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER TEAM)",
     deadline: "20 MARCH",
@@ -570,7 +571,7 @@ export const eventsDet = [
     image: eventImg.connections,
     form: 'https://forms.gle/XUaQSytWjft2YQRd8',
     type: "nonTechnical",
-    rulebook: "https://drive.google.com/file/d/1Mqu5tXpbDpuDUDipVXkj8h8gfrzOKvif/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/150UeDOx13sA1OPDJt2A92Tg_XuRVFXv4/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER TEAM)",
     deadline: "20 MARCH",
@@ -605,7 +606,7 @@ export const eventsDet = [
     image: eventImg.newspaper,
     form: 'https://forms.gle/fKmykE81dAtVRa7CA',
     type: "nonTechnical",
-    rulebook: "https://drive.google.com/file/d/1feW3oOHnNDUv1DK4Gulc7miJG8v-BqLI/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1BQofcHqIFC-qaWUyd7jwQoG4NO8ZDQ3O/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER INDIVIDUAL)",
     deadline: "20 MARCH",
@@ -640,7 +641,7 @@ export const eventsDet = [
     image: eventImg.speaks,
     form: 'https://forms.gle/XUaQSytWjft2YQRd8',
     type: "nonTechnical",
-    rulebook: "https://drive.google.com/file/d/1XBl17qFLk-nwrcjgt-8Pflq577BPMbRY/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1lqvoc1Zpe5AeCc5rQozOMuEo2QUjwSXG/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 100(PER TEAM)",
     deadline: "20 MARCH",
@@ -677,7 +678,7 @@ export const eventsDet = [
     image: eventImg.shoot,
     form: 'https://forms.gle/cWVAb3SnMovQz8659',
     type: "nonTechnical",
-    rulebook: "https://drive.google.com/file/d/1eUbynUOr310LRV0Ala8u49IqiN5QrE_9/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1PpyoLxYXmLZqX51ZGk_6XuVcom6eh03t/view?usp=drive_link",
     tag: "Rewards & Certificates",
     fee: "RS 200(PER TEAM)",
     deadline: "20 MARCH",
@@ -709,14 +710,95 @@ export const eventsDet = [
 
   /// Workshops dup
 
-  /// 1. 3d printing
+  /// 1. AR/VR Technology pend
   {
-    id: 'printing',
-    name: '3D Printing',
-    image: eventImg.printing,
-    form: '',
+    id: 'arvr',
+    name: 'AR/VR Technology',
+    image: eventImg.arvr,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+    ,
+  },
+
+
+  /// 2. Web Scrapping pend
+  {
+    id: 'webScrapping',
+    name: 'Web Scrapping',
+    image: eventImg.web,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+    ,
+  },
+
+
+  /// 3. Cyber Security pend
+  {
+    id: 'cyberSecurity',
+    name: 'Cyber Security',
+    image: eventImg.cyber,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name:{
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "Cyber security, also known as information technology security, refers to the practice of protecting computer systems, networks, programs, and data from unauthorized access, misuse, modification, or denial of service. It involves implementing various measures, technologies, and processes to prevent, detect, and respond to cyber threats and attacks. Cyber security aims to ensure the confidentiality, integrity, and availability of information and systems, safeguarding against potential vulnerabilities, malicious actors, and cyber crimes."
+    ,
+    points: [
+      "Virus and Ransomware",
+      "Google Dorking",
+      "Social Media Faking its Intimacy",
+      "Introduction to Burp Suite"
+    ]
+  },
+
+  
+  /// 4. 3d Modelling comp
+  {
+    id: 'modelling',
+    name: '3D Modelling',
+    image: eventImg.printing,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
@@ -729,234 +811,56 @@ export const eventsDet = [
         info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-        "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+        "Autodesk Maya is a powerful and widely used 3D computer graphics software known for its versatility and comprehensive toolset. Developed by Autodesk, Maya has become a staple in industries like film, television, video games, and architecture due to its ability to create stunning visual effects, animations, and virtual environments."
     ,
     points: [
-      "Introduction to 3D printing",
-      "3D designing software",
-      "Future Scope of 3D printing",
-      "Various types and uses of 3D printing"
+      "Features and Capabilities",
+      "Modeling",
+      "Animation",
+      "Rendering",
+      "Simulation"
     ]
   },
 
 
-
-  /// 2. Fusion 360
+  /// 5. shading comp
   {
-    id: 'fusion',
-    name: 'Fusion 360',
-    image: eventImg.fusion,
-    form: '',
+    id: 'shading',
+    name: 'Art-Pencil Shading',
+    image: eventImg.shading,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
     ],
     contact: {
-        name: {
+        name:{
           faculty: [],
           student: ["DHILIPKUMAR M", "ABIJITH G S"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+      "Take your drawing to the next level with this pencil shading class! Whether you're a complete beginner or looking to refine your skills, this class will equip you with the techniques needed to create realistic depth and dimension in your artwork."
     ,
+    points: [
+      "The fundamentals of light and shadow",
+      "Shading for different subjects",
+      "Doubt Clarification Section"
+    ]
   },
 
 
-
-  /// 3. Exposure Compensation
+  /// 6. SQL pend
   {
-    id: 'exposureCompensation',
-    name: 'Exposure Compensation',
-    image: eventImg.exposure,
-    form: '',
+    id: 'sql',
+    name: 'SQL (My SQL or SQL Animated)',
+    image: eventImg.sql,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 4. Cinematic Story Telling
-  {
-    id: 'story',
-    name: 'Cinematic Story Telling',
-    image: eventImg.story,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 5. Web Development
-  {
-    id: 'webDevelopment',
-    name: 'Web Development',
-    image: eventImg.web,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 6. Mat Lab
-  {
-    id: 'matLab',
-    name: 'Mat Lab',
-    image: eventImg.matlab,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"],
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 7. Ethical Hacking
-  {
-    id: 'ethicalHacking',
-    name: 'Ethical Hacking',
-    image: eventImg.ethical,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 8. AR/VR Technology
-  {
-    id: 'arvr',
-    name: 'AR/VR Technology',
-    image: eventImg.arvr,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 9. Mobile App Development
-  {
-    id: 'mobile',
-    name: 'Mobile App Development',
-    image: eventImg.mobile,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
-    fee: "RS 200(PER INDIVIDUAL)",
-    teamCount: [
-      "Individual Participation"
-    ],
-    contact: {
-        name: {
-          faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
-        } ,
-        info: "bitvprayukti@bitsathy.ac.in"
-    },
-    info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
-    ,
-  },
-
-
-
-  /// 10. Cyber Security
-  {
-    id: 'cyberSecurity',
-    name: 'Cyber Security',
-    image: eventImg.cyber,
-    form: '',
-    type: 'workshops',
-    rulebook: "https://drive.google.com/file/d/1yq0BC5OMcAcV1bqJgh51QJ7YNhnaK-vy/view?usp=drive_link",
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
     fee: "RS 200(PER INDIVIDUAL)",
     teamCount: [
       "Individual Participation"
@@ -973,5 +877,71 @@ export const eventsDet = [
     ,
   },
 
-  
+
+  /// 7. Drone pend
+  {
+    id: 'drone',
+    name: 'Drone',
+    image: eventImg.drone,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name:{
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "Join us to explore the world of quadcopter drones! Learn about their technical components, including motors, ESCs, flight controllers, and batteries. Discover how to assemble and configure a quadcopter for optimal performance. Explore the electrical principles behind flight dynamics and control systems. Dive into real-world applications, from aerial photography and videography to agriculture and search-and-rescue missions. Gain hands-on experience with flight simulations and practical flying sessions. Whether you're a hobbyist or aspiring professional, this workshop equips you with essential skills in drone technology and applications. Don't miss out on this opportunity to soar to new heights!"
+    ,
+    points: [
+      "Introduction",
+      "Overview of drone",
+      "Uses of Drones",
+      "Explanation of drone components",
+      "Building a Drone",
+      "Basic piloting",
+      "Q&A"
+    ]
+  },
+
+
+  /// 8. Fashion Portfolio comp
+  {
+    id: 'fashionPortfolio',
+    name: 'Fashion Portfolio',
+    image: eventImg.fashion,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name:{
+          faculty: [],
+          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "A fashion portfolio is a collection of work by a person that showcases their skills and abilities. Fashion portfolios are used across the industry by people in a variety of different sectors, including styling, visual merchandising and photography, and they can also be used by writers, buyers and designers. The main purpose of a portfolio is to showcase work and creativity, and everyone will present theirs slightly differently."
+    ,
+    points: [
+      "TYPES OF FASHION PORTFOLIO",
+      "HOW TO CREATE A FASHION PORTFOLIO",
+      "INSPIRATION BOARD, MOOD BOARD , COLOR BOARD, COLOR STORYBOARD, CONCEPT BOARD",
+      "BRAINSTORMING",
+      "ROUGH SKETCH AND FINAL SKETCH",
+      "PRODUCT"
+    ]
+  },
+
 ]
