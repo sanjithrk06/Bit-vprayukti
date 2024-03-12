@@ -730,7 +730,7 @@ export const eventsDet = [
         info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals! To know all the topics of workshop and its description in detail, kindly refer the rulebook."
     ,
   },
 
@@ -755,7 +755,7 @@ export const eventsDet = [
         info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals! To know all the topics of workshop and its description in detail, kindly refer the rulebook."
     ,
   },
 
@@ -873,7 +873,7 @@ export const eventsDet = [
         info: "bitvprayukti@bitsathy.ac.in"
     },
     info: 
-      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals!"
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals! To know all the topics of workshop and its description in detail, kindly refer the rulebook."
     ,
   },
 
