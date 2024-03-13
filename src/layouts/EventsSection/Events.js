@@ -501,7 +501,7 @@ export const eventsDet = [
   id: "puzzle",
   name: "Puzzle",
   image: eventImg.puzzle,
-  form: '',
+  form: 'https://forms.gle/fKmykE81dAtVRa7CA',
   type: "nonTechnical",
   rulebook: "https://drive.google.com/file/d/1Uut6BFoCqErK0DrOIEkIMEqujJhiF7p3/view?usp=drive_link",
   tag: "Rewards & Certificates",
