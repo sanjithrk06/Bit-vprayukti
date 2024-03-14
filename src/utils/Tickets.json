@@ -54,11 +54,11 @@
     "id": "VPT25",
     "eventId": "25",
     "title": "COMBO 4",
-    "size":"1-4",
+    "size":"Individual",
     "amount": 600,
     "form": "https://forms.gle/CG5YRpt8SGMksWBt5",
     "discount": "499",
-    "offers": "25%",
+    "offers": "20%",
     "category": "team",
     "details": [
       "Any Three Workshops",
@@ -169,7 +169,7 @@
   {
     "id": "VPT08",
     "eventId": "08",
-    "title": "MAZE SOLVER",
+    "title": "MAZE EXPLORER",
     "size":"1-5",
     "amount": 500,
     "form": "https://forms.gle/AxfxWGsN4FLhCvcdA",

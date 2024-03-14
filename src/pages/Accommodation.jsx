@@ -47,7 +47,7 @@ const Accommodation = () => {
               />
             </div>
             <div className=" text-accent text-3xl my-10 font-semibold text-center">
-              Accommodation details will be updated soon...
+              Accommodation will be provided.
             </div>
             {/* <div className="w-full lg:mx-20">
               <ul className=' mx-6 my-4 sm:mx-20 list-disc leading-9 font-[300] text-dimWhite'>

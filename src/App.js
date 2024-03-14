@@ -50,7 +50,8 @@ const App = () => {
           <Route path="/admin/*" element={<Navigate to="/admin/dashboard" />} />
           {/* For all  */}
           <Route path="/" element={<Home />} />
-          <Route path="/tickets" element={<Tickets />} />
+          <Route path="/ticket" element={<Tickets />} />
+          <Route path="/ticketS" element={<Tickets1 />} />
           <Route path="/events/:eventId" element={<SingleEvent />} />
           <Route path="/committee" element={<Committee />} />
           <Route path="/accommodation" element={<Accommodation />} />

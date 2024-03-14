@@ -391,7 +391,7 @@ export const eventsDet = [
       info: "bitvprayukti@bitsathy.ac.in",
       name: {
         faculty: ["Prof. Saranya N", "Prof. Dhanalakshmi S"], 
-        student: ["VINETH R - 6382129544", "MUGUNTHAN SRI HARI D - 6383709687"]
+        student: ["VINETH R - 6382129544", "ROHIT P - 7708148545"]
       }
     },
   },
@@ -710,10 +710,10 @@ export const eventsDet = [
 
   /// Workshops dup
 
-  /// 1. AR/VR Technology pend
+  /// 1. AR Technology pend
   {
-    id: 'arvr',
-    name: 'AR/VR Technology',
+    id: 'ar',
+    name: 'AR Technology',
     image: eventImg.arvr,
     form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
@@ -725,7 +725,31 @@ export const eventsDet = [
     contact: {
         name: {
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "Engage in interactive learning during our workshops! Immerse yourself in hands-on training covering a range of trending topics, providing valuable insights and skill enhancement. Seize this chance for practical knowledge that goes beyond the fundamentals! To know all the topics of workshop and its description in detail, kindly refer the rulebook."
+    ,
+  },
+
+  /// vr
+  {
+    id: 'vr',
+    name: 'VR Technology',
+    image: eventImg.matlab,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name: {
+          faculty: [],
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -737,8 +761,8 @@ export const eventsDet = [
 
   /// 2. Web Scrapping pend
   {
-    id: 'webScrapping',
-    name: 'Web Scrapping',
+    id: 'webScraping',
+    name: 'Web Scraping',
     image: eventImg.web,
     form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
@@ -750,7 +774,7 @@ export const eventsDet = [
     contact: {
         name: {
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -775,7 +799,7 @@ export const eventsDet = [
     contact: {
         name:{
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -806,7 +830,7 @@ export const eventsDet = [
     contact: {
         name: {
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"],
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"],
         },
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -838,7 +862,7 @@ export const eventsDet = [
     contact: {
         name:{
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -868,7 +892,7 @@ export const eventsDet = [
     contact: {
         name:{
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -893,7 +917,7 @@ export const eventsDet = [
     contact: {
         name:{
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -927,7 +951,7 @@ export const eventsDet = [
     contact: {
         name:{
           faculty: [],
-          student: ["DHILIPKUMAR M", "ABIJITH G S"]
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
         } ,
         info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -941,6 +965,36 @@ export const eventsDet = [
       "BRAINSTORMING",
       "ROUGH SKETCH AND FINAL SKETCH",
       "PRODUCT"
+    ]
+  },
+
+
+  /// 9. Baking and Confectionery Technology
+  {
+    id: 'baking',
+    name: 'Baking Technology',
+    image: eventImg.fashion,
+    form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
+    type: 'workshops',
+    rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
+    fee: "RS 200(PER INDIVIDUAL)",
+    teamCount: [
+      "Individual Participation"
+    ],
+    contact: {
+        name:{
+          faculty: [],
+          student: ["DHILIPKUMAR M - 9080843269", "ABIJITH G S - 9043454569"]
+        } ,
+        info: "bitvprayukti@bitsathy.ac.in"
+    },
+    info: 
+      "Baking is cooking of food by the action of dry heat in an oven. The degree of dryness of heat may be modified by the amount of steam produced from the items baked. Bread rolls, cakes, pastries, puddings etc. are baked. Confectionery is the art of making confections, which are food items that are rich in sugar and carbohydrates. In general, though, confectionery is divided into three categories:"
+    ,
+    points: [
+      "Flour confectionery includes principally sweet pastries, cakes, and similar baked goods.",
+      "Sugar confectionery includes sweets, candied nuts, chocolates, chewing gum, sweetmeats, pastillage, and other confections that are made primarily of sugar",
+      "Chocolate confections (confections made of chocolate) are treated as a separate category, as are sugar-free versions of sugar confections. "
     ]
   },
 
