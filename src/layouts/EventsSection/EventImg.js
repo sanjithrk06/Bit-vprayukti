@@ -39,5 +39,7 @@ export const eventImg = {
   shading: require('../../assets/images/vpraAssets/shading.jpg'),
   drone: require('../../assets/images/vpraAssets/drone.jpg'),
   sql: require('../../assets/images/vpraAssets/sql.jpg'),
-  fashion: require('../../assets/images/vpraAssets/fashion.jpg')
+  fashion: require('../../assets/images/vpraAssets/fashion.jpg'),
+  vr: require('../../assets/images/vpraAssets/Workshops/vr.jpeg'),
+  baking: require('../../assets/images/vpraAssets/Workshops/baking.jpeg'),
 };

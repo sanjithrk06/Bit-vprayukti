@@ -738,7 +738,7 @@ export const eventsDet = [
   {
     id: 'vr',
     name: 'VR Technology',
-    image: eventImg.matlab,
+    image: eventImg.vr,
     form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
     rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
@@ -973,7 +973,7 @@ export const eventsDet = [
   {
     id: 'baking',
     name: 'Baking Technology',
-    image: eventImg.fashion,
+    image: eventImg.baking,
     form: 'https://forms.gle/DKeCKFJH7pBQQ6xSA',
     type: 'workshops',
     rulebook: "https://drive.google.com/file/d/1A6rlvBRnNa9PlSYt5EFnVxufTfHSw7S-/view?usp=drive_link",
