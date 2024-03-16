@@ -124,11 +124,11 @@ const Footer = () => {
           <div className="text-sm uppercase text-accent font-bold mb-4">Co-ordinators</div>
           <ul className='text-sm'>
             <li className="my-2">
-              <p className="" >Tharun Kumaran K E</p>
+              <p className="" >Mr. Tharun Kumaran K E</p>
               <a className="hover:text-accent" href="tel:9688515799">9688515799</a>
             </li>
             <li className="my-2">
-              <p className="" >Sree Poorvishaa M</p>
+              <p className="" >Mr. Sree Poorvishaa M</p>
               <a className="hover:text-accent" href="tel:9345899487">9345899487</a>
             </li>
           </ul>

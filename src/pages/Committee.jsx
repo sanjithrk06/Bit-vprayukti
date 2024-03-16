@@ -170,7 +170,7 @@ const Committee = () => {
                 </h5>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    GOWDHAM P
+                    Mr. GOWDHAM P
                   </h5>
                   <p className="text-base text-white">
                     IV YEAR-EEE <br />
@@ -180,7 +180,7 @@ const Committee = () => {
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    MONISH KANNA S P
+                    Mr. MONISH KANNA S P
                   </h5>
                   <p className="text-base text-white">
                     III YEAR-CSE <br />
@@ -190,7 +190,9 @@ const Committee = () => {
                 </div>
                 <div className="committee-item mb-10">
                   <h5 className="text-2xl font-medium text-[#d0c7c7]">
-                    <a className=' cursor-pointer hover:text-accent' target='_blank' rel="noreferrer" href='http://sanjith-portfolio.netlify.app'>SANJITH R K</a> 
+                    <a className=' cursor-pointer hover:text-accent' target='_blank' rel="noreferrer" href='http://sanjith-portfolio.netlify.app'>
+                      Mr. SANJITH R K
+                    </a> 
                   </h5>
                   <p className="text-base text-white">
                     II YEAR-CSE <br />

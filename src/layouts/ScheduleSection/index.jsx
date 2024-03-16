@@ -41,16 +41,16 @@ const ScheduleSection = () => {
              Event LineUps
             </h3>
             
-            {/* <h3
+            <h3
               data-aos="fade-up" data-aos-offset="10"
               data-aos-once="true"  data-aos-delay="0"
               className=" text-xl sm:text-2xl text-white uppercase tracking-wider px-16 pt-12 leading-10 sm:px-0  font-semibold"
             >
              Lineups will be updated soon...
-            </h3> */}
+            </h3>
 
 
-          <div
+          {/* <div
             data-aos="fade-up" data-aos-offset="10"
             data-aos-once="true"  data-aos-delay="0"
             class=" items-center border-[3px] border-dimWhite bg-primary  bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-[0.5] rounded-full select-none nav-tabs flex justify-center w-full md:w-[600px] mx-auto mb-16 mt-10"
@@ -101,7 +101,7 @@ const ScheduleSection = () => {
           <button onClick={handleShowAll} class="max-w-[300px] px-6 py-2 mt-8 bg-dimBlue rounded-full items-center text-indigo-100 lg:rounded-full flex lg:inline-flex">
             <span id='btn-txt' class="font-semibold mr-2 text-left flex-auto">{showAll ? 'Show less' : 'Show all'}</span>
             <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="fill-current opacity-75 h-4 w-4"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"></path></svg>
-          </button>
+          </button> */}
 
           
         </div>

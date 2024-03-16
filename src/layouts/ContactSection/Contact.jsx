@@ -78,7 +78,7 @@ const ContactSection = () => {
                     
                     <h2 class="mt-4 text-base font-medium text-white">Address</h2>
                     <p class="mt-2 text-sm text-dimWhite">Reach out our college.</p>
-                    <a href="https://goo.gl/maps/w7LzzgoxfPDWQ8bY7" rel="noreferrer" target='_blank' class="mt-2 text-sm text-accent cursor-pointer">Bannari Amman Institue  of Technology, <br/> Sathyamangalam, Erode-638401</a>
+                    <a href="https://goo.gl/maps/w7LzzgoxfPDWQ8bY7" rel="noreferrer" target='_blank' class="mt-2 text-sm text-accent cursor-pointer">Bannari Amman Institute  of Technology, <br/> Sathyamangalam, Erode-638401</a>
                 </div>
 
                 <div>
@@ -89,7 +89,7 @@ const ContactSection = () => {
                     </span>
                     
                     <h2 class="mt-4 text-base font-medium text-white">Help-Line</h2>
-                    <p class="mt-2 text-sm text-dimWhite">Any doubts?, <br/>Our friendly team is here to help.</p>
+                    <p class="mt-2 text-sm text-dimWhite">Any doubts?, <br/>Our friendly team is here<br/> to help. Instead <a href='https://wa.me/6381137437' className=' text-accent'>Whatsapp</a></p>
                     <a class="mt-2 text-lg font-semibold cursor-pointer text-accent" rel="noreferrer" target='_blank' href="tel:6381137437">6381137437</a>
                 </div>
             </div>
