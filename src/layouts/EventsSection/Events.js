@@ -184,7 +184,7 @@ export const eventsDet = [
     contact: {
       name: {
         faculty: ["Prof. ARULMURUGAN L", "Prof. NIRMAL KUMAR R"], 
-        student: ["SHANKAR V - 9345361284", "HARISANTH - 8072218587"]
+        student: ["ARAVINDA RAM - 8778946434", "HARISANTH - 8072218587"]
       },
       info: "bitvprayukti@bitsathy.ac.in"
     },
@@ -366,7 +366,7 @@ export const eventsDet = [
   /// 1. Quiz
   {
     id: 'quiz',
-    name: 'Quiz',
+    name: 'Series Quiz',
     image: eventImg.quiz,
     form: 'https://forms.gle/fKmykE81dAtVRa7CA',
     type: 'nonTechnical',
@@ -601,7 +601,7 @@ export const eventsDet = [
 
   /// 8. Da vinci's newspaper
   {
-    id: "daVinci'sNewspaper",
+    id: "daVincisNewspaper",
     name: "Da vinci's Newspaper",
     image: eventImg.newspaper,
     form: 'https://forms.gle/fKmykE81dAtVRa7CA',

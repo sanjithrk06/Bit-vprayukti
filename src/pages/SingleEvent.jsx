@@ -221,7 +221,7 @@ const SingleEvent = () => {
                       <h2
                         className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
                       >
-                        Contact
+                        For Queries
                       </h2>
                       {/* <br/>
                       <h2
@@ -370,7 +370,7 @@ const SingleEvent = () => {
                       <h2
                         className="font-medium text-xl tracking-wider mb-2 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
                       >
-                        Contact
+                        For Queries
                       </h2>
                       {/* <br/>
                       <h2
