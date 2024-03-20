@@ -398,7 +398,7 @@ html {
 }
 
 .admin-navigation ul .active {
-  background-color: #45a2475b;
+  background-color: var(--dimBlue);
   border-left: 4px solid var(--accent-color);
 }
 

@@ -7,12 +7,17 @@ import { auth } from '../utils/config';
 
 const Dashboard = (props) => {
   const [access, setAccess] = useState(null);
-  const [nav, setNav] = useState('users');
+  const [nav, setNav] = useState('payApprove');
 
   
   useEffect(() => {
     const accessData = [
-      'gowdham.ee20@bitsathy.ac.in',
+      'bitvprayukti@bitsathy.ac.in',
+      'tharunkumaran.ec21@bitsathy.ac.in',
+      'sreepoorvishaa.ec21@bitsathy.ac.in',
+      'prajapandi.ec21@bitsathy.ac.in',
+      'sivasangeetha.ec21@bitsathy.ac.in',
+      'monishkanna.cs21@bitsathy.ac.in',
       'sanjith.cs22@bitsathy.ac.in',
     ];
     const fetchAdminAccess = async () => {
@@ -36,7 +41,7 @@ const Dashboard = (props) => {
   }
 
   return (
-    <div className="relative w-full h-screen flex items-center justify-center flex-col text-center bg-[#202020]">
+    <div className="relative w-full h-screen flex items-center justify-center flex-col text-center bg-primary">
       <SideBar nav={nav} setNav={setNav} />
       {/* logo  */}
       <div className="absolute flex items-center right-5 top-3 account-profile z-50">
@@ -53,7 +58,7 @@ const Dashboard = (props) => {
           alt="profile"
         />
       </div>
-      <div className="main-container relative bg-[#202020] text-left w-full h-full pl-[300px] p-10 flex flex-col">
+      <div className="main-container relative bg-primary text-left w-full h-full pl-[300px] p-10 flex flex-col">
         <h3 className="text-white text-xl">Dashboard</h3>
         {access ? (
           <DashboardCard nav={nav} />

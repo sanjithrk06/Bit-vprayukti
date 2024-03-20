@@ -9,6 +9,7 @@ export const eventsDet = [
   {
     id: 'paperPresentation',
     name: 'Paper Presentation',
+    select: 'Paper Presentation',
     image: eventImg.paper,
     form: 'https://forms.gle/fv75hnVxdjPXFraV9',
     type: 'technical',
@@ -51,6 +52,7 @@ export const eventsDet = [
   {
     id: 'projectPresentation',
     name: 'Project Presentation',
+    select: 'Project Presentation',
     image: eventImg.project,
     form: 'https://forms.gle/fv75hnVxdjPXFraV9',
     type: 'technical',
@@ -86,6 +88,7 @@ export const eventsDet = [
   {
     id: 'aimlHackathon',
     name: 'AIML Hackathon',
+    select: 'AIML Hackathon',
     image: eventImg.aiml,
     form: 'https://forms.gle/ys8uLTxcUmmWJ3K8A',
     type: 'technical',
@@ -124,6 +127,7 @@ export const eventsDet = [
   {
     id: 'iotHackathon',
     name: 'IOT Hackathon',
+    select: 'IOT Hackathon',
     image: eventImg.iot,
     form: 'https://forms.gle/ys8uLTxcUmmWJ3K8A',
     type: 'technical',
@@ -162,6 +166,7 @@ export const eventsDet = [
   {
     id: 'entrepreneurship',
     name: 'Entrepreneurship',
+    select: 'Entrepreneurship',
     image: eventImg.entrepreneur,
     form: 'https://forms.gle/6bYCMZCtV41fXjmE6',
     type: 'technical',
@@ -195,6 +200,7 @@ export const eventsDet = [
   {
     id: 'circuitDebugging',
     name: 'Circuit Debugging',
+    select: 'Circuit Debugging',
     image: eventImg.circuit,
     form: 'https://forms.gle/1rRG6C6pTvd1ghoq8',
     type: 'technical',
@@ -230,6 +236,7 @@ export const eventsDet = [
   {
     id: 'lineFollower',
     name: 'Line Follower',
+    select: 'Line Follower',
     image: eventImg.line,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
@@ -263,6 +270,7 @@ export const eventsDet = [
   {
     id: 'mazeSolver',
     name: 'Maze Explorer',
+    select: 'Maze Explorer',
     image: eventImg.maze,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
@@ -297,6 +305,7 @@ export const eventsDet = [
   {
     id: 'roboSoccer',
     name: 'Robo Soccer',
+    select: 'Robo Soccer',
     image: eventImg.robo,
     form: 'https://forms.gle/AxfxWGsN4FLhCvcdA',
     type: 'technical',
@@ -331,6 +340,7 @@ export const eventsDet = [
   {
     id: 'techItOut',
     name: 'Tech It Out',
+    select: 'Tech It Out',
     image: eventImg.techitout,
     form: 'https://forms.gle/1rRG6C6pTvd1ghoq8',
     type: 'technical',
@@ -367,6 +377,7 @@ export const eventsDet = [
   {
     id: 'quiz',
     name: 'Series Quiz',
+    select: 'Series Quiz',
     image: eventImg.quiz,
     form: 'https://forms.gle/fKmykE81dAtVRa7CA',
     type: 'nonTechnical',
@@ -401,6 +412,7 @@ export const eventsDet = [
 {
   id: 'themePhotography',
   name: 'Theme Photography',
+  select: 'Theme Photography',
   image: eventImg.theme,
   form: 'https://forms.gle/fKmykE81dAtVRa7CA',
   type: 'nonTechnical',
@@ -434,6 +446,7 @@ export const eventsDet = [
 {
   id: 'bridgeMaking',
   name: 'Bridge Making',
+  select: 'Bridge Making',
   image: eventImg.bridge,
   form: 'https://forms.gle/jHA7bgKDvN5WgWL97',
   type: 'nonTechnical',
@@ -467,6 +480,7 @@ export const eventsDet = [
 {
   id: 'rubiksCube',
   name: 'Rubik\'s Cube',
+  select: 'Rubik\'s Cube',
   image: eventImg.cube,
   form: 'https://forms.gle/GKu5ewAVYaoRU3fR9',
   type: 'nonTechnical',
@@ -500,6 +514,7 @@ export const eventsDet = [
 {
   id: "puzzle",
   name: "Puzzle",
+  select: "Puzzle",
   image: eventImg.puzzle,
   form: 'https://forms.gle/fKmykE81dAtVRa7CA',
   type: "nonTechnical",
@@ -533,6 +548,7 @@ export const eventsDet = [
   {
     id: "mockCID",
     name: "Mock CID",
+    select: "Mock CID",
     image: eventImg.cid,
     form: 'https://forms.gle/XUaQSytWjft2YQRd8',
     type: "nonTechnical",
@@ -568,6 +584,7 @@ export const eventsDet = [
   {
     id: "connections",
     name: "Connections",
+    select: "Connections",
     image: eventImg.connections,
     form: 'https://forms.gle/XUaQSytWjft2YQRd8',
     type: "nonTechnical",
@@ -603,6 +620,7 @@ export const eventsDet = [
   {
     id: "daVincisNewspaper",
     name: "Da vinci's Newspaper",
+    select: "Da vinci's Newspaper",
     image: eventImg.newspaper,
     form: 'https://forms.gle/fKmykE81dAtVRa7CA',
     type: "nonTechnical",
@@ -638,6 +656,7 @@ export const eventsDet = [
   {
     id: "actionSpeaks",
     name: "Action Speaks",
+    select: "Action Speaks",
     image: eventImg.speaks,
     form: 'https://forms.gle/XUaQSytWjft2YQRd8',
     type: "nonTechnical",
@@ -675,6 +694,7 @@ export const eventsDet = [
   {
     id: "shootAndBroadcast",
     name: "Shoot and Broadcast",
+    select: "Shoot and Broadcast",
     image: eventImg.shoot,
     form: 'https://forms.gle/cWVAb3SnMovQz8659',
     type: "nonTechnical",
@@ -996,6 +1016,29 @@ export const eventsDet = [
       "Sugar confectionery includes sweets, candied nuts, chocolates, chewing gum, sweetmeats, pastillage, and other confections that are made primarily of sugar",
       "Chocolate confections (confections made of chocolate) are treated as a separate category, as are sugar-free versions of sugar confections. "
     ]
+  },
+
+
+  //workshop dup
+  {
+    select: 'Workshop',
+  },
+
+  //Combos dup
+  {
+    select: 'Combo 1',
+  },
+
+  {
+    select: 'Combo 2',
+  },
+
+  {
+    select: 'Combo 3',
+  },
+
+  {
+    select: 'Combo 4',
   },
 
 ]

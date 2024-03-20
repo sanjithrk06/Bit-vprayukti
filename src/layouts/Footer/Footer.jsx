@@ -116,7 +116,13 @@ const Footer = () => {
               <a className="hover:text-accent" href="https://bitsathy.ac.in" rel="noreferrer" target='_blank'>BITSathy</a>
             </li>
             <li className="my-2">
-            <a className="hover:text-accent" href="https://www.instagram.com/vprayuktibit?igsh=ZWI2YzEzYmMxYg==" rel="noreferrer" target='_blank'>Instagram</a>
+              <a className="hover:text-accent" href="mailto:bitvprayukti@bitsathy.ac.in" rel="noreferrer" target='_top'>Email</a>
+            </li>
+            <li className="my-2">
+              <a className="hover:text-accent" href="https://www.instagram.com/vprayuktibit?igsh=ZWI2YzEzYmMxYg==" rel="noreferrer" target='_blank'>Instagram</a>
+            </li>
+            <li className="my-2">
+              <a className="hover:text-accent" href="https://wa.me/6381137437" rel="noreferrer" target='_blank'>Whatsapp</a>
             </li>
           </ul>
         </div>

@@ -1,16 +1,16 @@
-import React, { useState } from 'react';
+import React from 'react';
 // import { FaArrowRight } from 'react-icons/fa';
 // import InputField from '../../components/InputField';
-import { firestoreAddDoc } from '../../utils/config';
+// import { firestoreAddDoc } from '../../utils/config';
 
 const ContactSection = () => {
-  const [query, setQuery] = useState({
-    firstname: '',
-    lastname: '',
-    email: '',
-    phone: '',
-    message: '',
-  });
+  // const [query, setQuery] = useState({
+  //   firstname: '',
+  //   lastname: '',
+  //   email: '',
+  //   phone: '',
+  //   message: '',
+  // });
 
   // const handleInputChange = (e) => {
   //   setQuery({
@@ -65,7 +65,7 @@ const ContactSection = () => {
 
                     <h2 class="mt-4 text-base font-medium text-white">Email</h2>
                     <p class="mt-2 text-sm text-dimWhite">Our friendly team is here to help.</p>
-                    <a href='mailto:bitvprayukti@bitsathy.ac.in' rel="noreferrer" target='_blank' class="mt-2 text-sm cursor-pointer text-accent">bitvprayukti@bitsathy.ac.in</a>
+                    <a href='mailto:bitvprayukti@bitsathy.ac.in' rel='noopener' target='_top' class="mt-2 text-sm cursor-pointer text-accent">bitvprayukti@bitsathy.ac.in</a>
                 </div>
 
                 <div>
