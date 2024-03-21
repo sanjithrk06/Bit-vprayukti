@@ -54,7 +54,11 @@ const ContactSection = () => {
         >
             Contact Us
         </h3>
-        <div className="flex flex-col gap-20 sm:flex-row justify-between mt-20">
+        <div 
+          data-aos="fade-up" data-aos-offset="10"
+          data-aos-once="true"  data-aos-delay="0"
+          className="flex flex-col gap-20 sm:flex-row justify-between mt-20"
+        >
             <div class="basis-full flex flex-row gap-10 flex-wrap justify-evenly md:basis-3/3 ">
                 <div>
                     <span class="inline-block p-3 text-accent rounded-full bg-gray-800">
@@ -64,7 +68,7 @@ const ContactSection = () => {
                     </span>
 
                     <h2 class="mt-4 text-base font-medium text-white">Email</h2>
-                    <p class="mt-2 text-sm text-dimWhite">Our friendly team is here to help.</p>
+                    <p class="mt-2 text-sm text-dimWhite">Our friendly team is here to help.<br/> Instead <a href='https://wa.me/6381137437' className=' text-accent font-semibold'>Whatsapp</a></p>
                     <a href='mailto:bitvprayukti@bitsathy.ac.in' rel='noopener' target='_top' class="mt-2 text-sm cursor-pointer text-accent">bitvprayukti@bitsathy.ac.in</a>
                 </div>
 
@@ -89,8 +93,8 @@ const ContactSection = () => {
                     </span>
                     
                     <h2 class="mt-4 text-base font-medium text-white">Help-Line</h2>
-                    <p class="mt-2 text-sm text-dimWhite">Any doubts?, <br/>Our friendly team is here<br/> to help. Instead <a href='https://wa.me/6381137437' className=' text-accent'>Whatsapp</a></p>
-                    <a class="mt-2 text-lg font-semibold cursor-pointer text-accent" rel="noreferrer" target='_blank' href="tel:6381137437">6381137437</a>
+                    <p class="mt-2 text-sm text-dimWhite">Any doubts?, <br/>Our friendly team is here to help</p>
+                    <a class="mt-2 text-base font-[500] cursor-pointer text-accent" rel="noreferrer" target='_blank' href="tel:6381137437">6381137437</a>
                 </div>
             </div>
           {/* <div className="basis-full md:basis-2/3 md:p-4 sm:mt-10 sm:p-10">

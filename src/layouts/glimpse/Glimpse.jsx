@@ -30,21 +30,16 @@ function Glimpse() {
     <AppContainer className="">
       <Wrapper>
         <h2
-          data-aos="fade-up" data-aos-offset="10"
-          data-aos-once="true"  data-aos-delay="10"
           className="font-medium text-xl tracking-wider mb-6 text-accent inline-block uppercase border-b-slate-700 border-b-2 pb-1"
         >
           A Glimpse of<span className='text-2xl'></span>
         </h2>
         <h3
-          data-aos="fade-up" data-aos-offset="10"
-          data-aos-once="true"  data-aos-delay="0"
           className=" text-3xl sm:text-6xl text-white uppercase tracking-wider px-16 leading-10 sm:px-0 mb-16 font-semibold"
         >
           V-PRAYUKTI’23
         </h3>
-        <Marquee data-aos="fade-up" data-aos-offset="10"
-          data-aos-once="true"  data-aos-delay="0">
+        <Marquee>
           <MarqueeGroup>
             {row1.map((el) => (
               <ImageGroup>

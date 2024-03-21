@@ -46,10 +46,10 @@ const Accommodation = () => {
                 className="ml-0 md:ml-7 mt-5 md:mt-0 rounded-lg bg-blend-overlay"
               />
             </div>
-            <div className=" text-accent text-3xl my-10 font-semibold text-center">
+            {/* <div className=" text-accent text-3xl my-10 font-semibold text-center">
               Accommodation will be provided.
-            </div>
-            {/* <div className="w-full lg:mx-20">
+            </div> */}
+            <div className="w-full lg:mx-20">
               <ul className=' mx-6 my-4 sm:mx-20 list-disc leading-9 font-[300] text-dimWhite'>
               <li>
                 Accomodation is provided for all the participants for both the
@@ -61,8 +61,7 @@ const Accommodation = () => {
               </li>
               <li>
                 Breakfast, lunch and dinner is available in the college canteen
-                and cafeteria as well on a charged basis. Tokens can be provided
-                during the registration desk after payment.
+                and cafeteria as well on a charged basis.
               </li>
               <li>
                 There are cafe's available for lunch and dinner inside the
@@ -70,8 +69,13 @@ const Accommodation = () => {
                 in the college canteen both on charged basis.
               </li>
               <li>Kindly carry your college identification card for proof.</li>
+              <li>For Queries,</li>
+              <ul className=' pl-4'>
+                <li className=' text-white font-medium'>Mr.Vishnuvarthan - <a href='tel:8220491016' className=' hover:text-accent'>8220491016</a></li>
+                <li className=' text-white font-medium'>Ms.Genga Sri - <a href='tel:8248743399' className=' hover:text-accent'>8248743399</a></li>
               </ul>
-            </div> */}
+              </ul>
+            </div>
           </div>
         </div>
       </section>

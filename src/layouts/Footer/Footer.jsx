@@ -3,7 +3,12 @@ import flogo from "../../assets/images/flogo.png";
 
 const Footer = () => {
   return (
-    <section id='footer' className="bg-primary">
+    <section 
+      data-aos="fade-up" data-aos-offset="10"
+      data-aos-once="true"  data-aos-delay="50" 
+      id='footer' 
+      className="bg-primary"
+    >
       <div className="max-w-screen-xl py-10 px-4 sm:px-6 text-dimWhite border-t border-white sm:flex justify-between mx-auto">
         <div className="px-5  sm:w-4/12  text-center">
           <img src={flogo} alt="logo" className='my-0 mb-10' />

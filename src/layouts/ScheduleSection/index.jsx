@@ -68,8 +68,8 @@ const ScheduleSection = () => {
               >
                 <input type="radio" name="radio" value="react" className="peer hidden" defaultChecked />
                 <span
-                  className="tab-label tracking-widest w-full rounded-full peer-checked:bg-gradient-to-r peer-checked:from-[#003133] peer-checked:to-[#001e70] peer-checked:text-white border-[2px] border-transparent text-accent p-2 transition duration-150 ease-in-out"
-                >Friday <br /> Feb 10, 2023</span>
+                  className="tab-label tracking-widest w-full rounded-full peer-checked:bg-accent/10 peer-checked:text-white border-[2px] peer-checked:font-semibold border-transparent text-accent p-2 transition duration-150 ease-in-out"
+                >Tuesday <br /> MAR 26, 2024</span>
               </label>
 
               <label
@@ -80,8 +80,8 @@ const ScheduleSection = () => {
               >
                 <input type="radio" name="radio" value="react" className="peer hidden" />
                 <span
-                  className="tab-label tracking-widest w-full rounded-full peer-checked:bg-gradient-to-r peer-checked:from-[#003133] peer-checked:to-[#001e70] peer-checked:text-white border-[2px] border-transparent text-accent p-2 transition duration-150 ease-in-out"
-                >Saturday <br /> Feb 11, 2023</span>
+                  className="tab-label tracking-widest w-full rounded-full peer-checked:bg-accent/10 peer-checked:text-white border-[2px] peer-checked:font-semibold border-transparent text-accent p-2 transition duration-150 ease-in-out"
+                >Wednesday <br /> MAR 27, 2024</span>
               </label>
             </ul>
 
@@ -98,7 +98,7 @@ const ScheduleSection = () => {
               ))}
           </div>
 
-          <button onClick={handleShowAll} class="max-w-[300px] px-6 py-2 mt-8 bg-dimBlue rounded-full items-center text-indigo-100 lg:rounded-full flex lg:inline-flex">
+          <button onClick={handleShowAll} class="max-w-[300px] px-6 py-2 mt-8 bg-dimBlue rounded-full items-center shadow-sm shadow-accent text-indigo-100 lg:rounded-full flex lg:inline-flex">
             <span id='btn-txt' class="font-semibold mr-2 text-left flex-auto">{showAll ? 'Show less' : 'Show all'}</span>
             <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="fill-current opacity-75 h-4 w-4"><path d="M12.95 10.707l.707-.707L8 4.343 6.586 5.757 10.828 10l-4.242 4.243L8 15.657l4.95-4.95z"></path></svg>
           </button>

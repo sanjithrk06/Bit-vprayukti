@@ -79,7 +79,7 @@ const Committee = () => {
             data-aos-once="true"  data-aos-delay="0"
             className="committee relative"
           >
-            <h5 className="text-3xl font-medium uppercase text-accent mt-16">
+            <h5 className="text-3xl font-medium uppercase text-accent mt-8">
               EVENT COMMITTEE
             </h5>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5 gap-y-10 mt-8">
