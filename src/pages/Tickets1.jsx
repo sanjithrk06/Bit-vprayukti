@@ -8,39 +8,39 @@ import TicketDetails from '../utils/Tickets.json';
 const Tickets1 = () => {
   const navigate = useNavigate();
   const [ticket, setTicket] = useState(null);
-  const [timer, setTimer] = useState({
-    days: '0',
-    hours: '0',
-    minutes: '0',
-    seconds: '0',
-  });
+  // const [timer, setTimer] = useState({
+  //   days: '0',
+  //   hours: '0',
+  //   minutes: '0',
+  //   seconds: '0',
+  // });
 
-  setInterval(() => {
-    const eventDate = new Date('Mar 21, 2024 00:00:00').getTime();
-    const now = new Date().getTime();
-    const gap = eventDate - now;
+  // setInterval(() => {
+  //   const eventDate = new Date('Mar 21, 2024 00:00:00').getTime();
+  //   const now = new Date().getTime();
+  //   const gap = eventDate - now;
 
-    if (gap > 0) {
-      // Timing constant
-      const second = 1000;
-      const minute = second * 60;
-      const hour = minute * 60;
-      const day = hour * 24;
+  //   if (gap > 0) {
+  //     // Timing constant
+  //     const second = 1000;
+  //     const minute = second * 60;
+  //     const hour = minute * 60;
+  //     const day = hour * 24;
 
-      // Remaining time
-      const remDay = Math.floor(gap / day);
-      const remHour = Math.floor((gap % day) / hour);
-      const remMinute = Math.floor((gap % hour) / minute);
-      const remSecond = Math.floor((gap % minute) / second);
+  //     // Remaining time
+  //     const remDay = Math.floor(gap / day);
+  //     const remHour = Math.floor((gap % day) / hour);
+  //     const remMinute = Math.floor((gap % hour) / minute);
+  //     const remSecond = Math.floor((gap % minute) / second);
 
-      setTimer({
-        days: remDay,
-        hours: remHour,
-        minutes: remMinute,
-        seconds: remSecond,
-      });
-    }
-  }, 1000);
+  //     setTimer({
+  //       days: remDay,
+  //       hours: remHour,
+  //       minutes: remMinute,
+  //       seconds: remSecond,
+  //     });
+  //   }
+  // }, 1000);
 
   useEffect(() => {
     const fetchTickets = async () => {

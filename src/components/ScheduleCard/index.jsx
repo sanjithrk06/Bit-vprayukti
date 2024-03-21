@@ -31,7 +31,7 @@ const ScheduleCard = ({ image, title, date, map, link }) => {
           <FaCalendarAlt className="text-accent mr-2" /> {date}
         </p>
         <p className="flex items-center text-white tracking-wide">
-          <FaMapPin className="text-accent mr-2" /> {map}
+          <FaMapPin className="text-accent mr-2" /> BIT
         </p>
       </div>
 

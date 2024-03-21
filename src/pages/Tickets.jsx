@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { useEffect } from 'react';
 import Loader from '../components/loader';
 import { useNavigate } from 'react-router-dom';
-import TicketCard from '../components/TicketCard';
-import Header from '../layouts/NavBar/Navbar';
+// import TicketCard from '../components/TicketCard';
+// import Header from '../layouts/NavBar/Navbar';
 import TicketDetails from '../utils/Tickets.json';
 
 const Tickets = () => {

@@ -10,8 +10,8 @@ import Tickets1 from './pages/Tickets1';
 import Working from './pages/Working';
 import Accommodation from './pages/Accommodation';
 import Loader from './components/loader';
-import RedirectToLogin from './utils/RedirectToLogin';
-import Login from './pages/Login';
+// import RedirectToLogin from './utils/RedirectToLogin';
+// import Login from './pages/Login';
 
 const App = () => {
   const [userInfo, setUserInfo] = useState({
@@ -66,9 +66,9 @@ const App = () => {
     <BrowserRouter>
       <Routes>
         {/* For Admins  */}
-        <Route path="/admin" element={<Navigate to="/admin/dashboard" />} />
+        {/* <Route path="/admin" element={<Navigate to="/admin/dashboard" />} />
         <Route path="/admin/login" element={<Login />} />
-        <Route path="/admin/*" element={<RedirectToLogin />} />
+        <Route path="/admin/*" element={<RedirectToLogin />} /> */}
         {/* For all  */}
         <Route path="/" element={<Home />} />
         <Route path="/events/:eventId" element={<SingleEvent />} />
