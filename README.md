@@ -7,7 +7,7 @@ Experience the buzz of campus events firsthand with Bit-vprayukti! This platform
 ---
 ## Demo
 
-**Website Link** - [Click here](https://bitvprayukti.in/)
+**Website Link** - [Click here](https://projectspro.site/sanjith/bitvprayukti24/)
 
 <img src='./public/demo.jpg' alt='Applicaiton Demo'>
 
