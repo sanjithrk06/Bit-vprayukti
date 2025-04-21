@@ -5,13 +5,6 @@
 Experience the buzz of campus events firsthand with Bit-vprayukti! This platform is designed to bring all the excitement of college events to your fingertips. Whether you're looking to explore event schedules, check out venue details, or stay updated on the latest happenings, Bit-vprayukti has got you covered.
 
 ---
-## Demo
-
-**Website Link** - [Click here](https://projectspro.site/sanjith/bitvprayukti24/)
-
-<img src='./public/demo.jpg' alt='Applicaiton Demo'>
-
----
 ## Tech Stack
 
 - React
@@ -58,4 +51,11 @@ Start the application
 ```
 
 ---
-*Feel free to reach out through the contact form in [My Portfolio](https://sanjith-portfolio.netlify.app/) or connect with me on social media.
+
+## Demo
+
+**Website Link** - [Click here](https://projectspro.site/sanjith/bitvprayukti24/)
+
+<img src='./public/demo.jpg' alt='Applicaiton Demo'>
+
+---
